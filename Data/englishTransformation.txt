@@ -1,0 +1,1918 @@
+1: It can be very interesting to listen to the radio. (Begin: Listening…)
+a: Listening to the radio can be very interesting.
+2: Start now or you will not arrive in time. (Begin: You…)
+a: You should start now otherwise you will not arrive in time.
+a: You should start now or else you will not arrive in time.
+a: You will not arrive in time if you do not start now.
+a: You will not arrive in time unless you start now.
+3: In your place, I would ask for a better reward. (Begin: If…)
+a: If I were you, I would ask for a better reward.
+4: He tried harder and harder but achieved less and less. (Begin: The…)
+a: The harder he tried, the less he achieved.
+5: The bag was so heavy that it could not be carried. ( Use: too
+a: The bag was too heavy to be carried.
+6: Your answers need correcting. ( Use: corrected)
+a: Your answers need to be corrected.
+7: Very few people are as honest as Mrs. Jacob. ( Use: most)
+a: Mrs. Jacob is one of the most honest people.
+8: As soon as they write the exam, they start discussing the answers. (Begin: No ….)
+a: No sooner do they write the exam than they start discussing the answers.
+9: If you had not advised me, I would have been deceived. (Begin: But…)
+a: But for your advice, I would have been deceived.
+10: The sudden knock startled her. ( Change the voice)
+a: She was startled by the sudden knock.
+11: As I frowned harder and harder, he smiled more and more broadly. [Begin: The harder….]
+a: The harder I frowned, the more broadly he smiled.
+12: This place is the best place to observe the elephants. [Use: better]
+a: This place is better than any other place to observe the elephants.
+13: How exhilarating it was to see the rainbow! [Begin: It...]
+a: It was exhilarating to see the rainbow.
+14: It was very exhilirating to see the rainbow.
+a: From radios came the report that the war was over. [Begin: radios…]
+15: Radios reported that the war was over.
+a: I asked her whether she thought that I was boring. [Change into Direct Speech]
+16: I asked her, “Do you think that I am boring?”
+a: The student said, “I shall work hard.” [Change into reported speech]
+17: The student said that he would work hard.
+a: This is the last time you will ever sit in this cinema. [Begin: Never...]
+18: Never again will you sit in this cinema.
+a: A senseless man repeats his mistakes. [Rewrite using ‘sensible’.]
+19: A sensible man does not repeat his mistakes.
+a: She is so weak that she cannot walk by herself [Rewrite using ‘too...]
+20: She is too weak to walk by herself.
+a: They finished their work. They went home. [Begin: No sooner…]
+21: No sooner did they finish their work than they went home.
+a: No sooner had they finished their work than they went home.
+22: Raju got a bad cough because he started smoking cigarettes. [Begin: If…] 
+a: If Raju had not started smoking, he would not have got a bad cough.
+23: Ben regretted asking Sunil to lend him his shoes. [Begin: Ben wished…]
+a: Ben wished that he had not asked Sunil to lent him his shoes.
+24: This furniture is so old that it is not worth keeping. [Use: too]
+a: This furniture is too old to keep.
+25: I am invited. [Provide a question tag]
+a: I am invited, aren’t I?
+26: “You should eat regularly, Mr.Kapoor,” the doctor said, “ if you want to be healthy.” [Begin: The doctor advised…]
+a: The doctor advised Mr.Kapoor to eat regularly if he wanted to be healthy.
+27: He is poor, still he is happy. [ Begin: Despite…] 
+a: Despite being poor, he is happy.
+a: Despite his poverty, he is happy.
+28: It was stupid of me to forget his name. [ Change into an exclamation.] 
+a: How stupid of me to forget his name!
+29: He will be elected Secretary by the group. {Change the voice.]
+a: The group will elect him the Secretary.
+30: Australia is the largest island in the world. [Begin: No other….] 
+a: No other island in the world is as large as Australia.
+31: “How beautiful the sunset looks tonight,” Neelam exclaimed. [Change the narration] 
+a: Neelam exclaimed that the sunset looked very wonderful that night.
+32: The book was so interesting that I could not put in down. (Begin: The book was too…………)
+a: The book was too interesting for me to put it down.
+33: The Principal Said, “All the prizes will be distributed tomorrow.” (Begin: The principal Said that………..)
+a: The Principal said that all the prizes would be distributed the next day.
+34: Last night’s dinner was cooked for us by father. (Begin: Father………………………….)
+a: Father cooked last night’s dinner for us.
+35: If Mary catches the first bus, she will be on time for school. (Begin: Unless…………………………)
+a: Unless Mary catches the first bus, she will not be on time for school.
+36: In spite of having high fever the girl came to school. (Begin: Despite………………………..)
+a: Despite having high fever, the girl came to school.
+37: I prefer going out with friends to staying alone at home. (Begin: I would rather………………….)
+a: I would rather go out with friends than stay alone at home.
+38: Hardly had the teacher left the room, when all the children started making a noise. (Begin: No sooner ……………………..)
+a: No sooner did the teacher leave the room than all the children started making noise.
+39: This is the funniest movie I have ever seen. (Begin: Never…………………… )
+a: Never before have I seen a story as funny as this.
+40: We had not even walked one kilometre when they stopped us. (Begin: Hardly …………………)
+a: Hardly had we walked one kilometre when they stopped us. 
+41: The memory is so vivid that I will never forget it. (Use 'too' in place of 'so')
+a:  The memory is too vivid for me to ever forget it.
+a:  The memory is too vivid to be forgotten.
+42: That need not happen. (Rewrite: using does.)
+a: That does not necessarily happen.
+43: Food and sleep were all we cared about. (Begin: All …………………….) 
+a: All we cared about was food and sleep.
+44: We sat there face to face with our accuser. (Begin: There ...............................)
+a: There we sat face to face with our accuser.
+45: Herbert consulted his parents before accepting the job offer. (Begin: Herbert did not ………..) 
+a: Herbert did not foget to consult his parents before accepting the job offer.
+46: Put your tools away, the children may fall over them (Use: lest………………………) 
+a: Put your tools away lest the children may fall over them.
+47: It was the last time he saw his wife. (Begin: Never……………………)
+a: Never again did he see his wife.
+48: Robert said, “Let us call a taxi.” (Change the narration) 
+a: Robert suggested that we should call a taxi.
+49: Rachel has the speed to outrun most of the girls in our school. (Begin: Few Girls...)
+a: Few girls in our school has the speed to outrun Rachel.
+50: The book was rather interesting. (Begin: It…)
+a: It was rather an interesting book.
+51: I had never had such a tedious journey. (Begin: No other…)
+a: No other journey I ever had was as tedious as this.
+52:But for his last minute goal; we would have lost the match. (Begin: Had…) 
+a: Had he not scored at the last minute, we would have lost the match.
+53: She is very beautiful but she is not clever. (Begin: She is not as ….)
+She is not as clever as she is beautiful.
+54: The old man had nothing other than a hot tea in the chilly morning. (Begin: Apart…) 
+a: Apart from a hot tea the old man had nothing in the chilly morning.
+55: “Will you come to my studio tomorrow? I am having an exhibition of my painting.” Rita said. (Change into Indirect speech.) 
+a: Rita asked whether I would come to her studio the next day as she was having an exhibition of her of her painting.
+56: As soon as they advertised the job, there was a rush of applicants. (Begin: No sooner)
+a: No sooner did they advertise the job than there was a rush of applicants.
+57: You kept the book somewhere. Show me the place. (Combine)
+a: Show me the place where you kept the books.
+58: Supposing it is an emergency, we should act immediately. (Use: provided...) 
+a: We should act immediately provided it is an emergency. 
+59: It is admitted that he is the greatest leader. ( Begin: All ...)
+a: All admit that he is the greatest leader. 
+60: Be honest and you will be respected by everyone. (Use: Everyone...) 
+a: If you are honest, everyone would respect you. 
+61: Gullible as he is as, he was not taken in by the fraud. (Begin: In spite of...)
+a: In spite of his gullibility, he was not taken in by the fraud.
+a: In spite of being gullible, he was not taken in by the fraud.
+62: My father was very charitable to everyone. (Use: the correct form of treat)
+a: My father treated everyone charitably. 
+63: Had Richard known what to do; he should have saved much time. (Begin: If...)
+a: If Richard had known what to do, he would have saved much time. 
+64: This rumour is incredible. (Begin: This rumour cannot .....)
+a: This rumour cannot be credited.
+a: This rumour cannot be believed.
+a: The rumour is not credible.
+a: The rumour is not believable.
+65: The new budget made the public glad. (Begin:The public...)
+a: The public were gladdened by the new budget.  
+66: "How prophetic was Cassius' words that day!" said the soothsayer.(Change the narration)
+a: The soothsayer said that Cassius' words were prophetic on that day. 
+67: The students said," Let there be no tests today." (Change into Reported Speech)
+a: The students wished that there might be no tests that day.
+68: The Director accepted his proposal ultimately. (Use: ‘rejected’)
+a: Ultimately his proposal was not rejected by the Director.
+69: His father is too honest to accept bribe. (Remove: ‘too’)
+a: His father is so honest that he cannot accept a bribe.
+70: As soon as I started to run, my left foot was twisted.(Use: ‘no sooner’)
+a: No sooner did I start to run than my left foot was twisted. 
+71: Your son was admitted to this school last year. (Use: ‘admission’) 
+a: Your son got admission to this school last year.
+a: Your son gained admission to this school last year.
+72: The news is too good to be true. (Remove: ‘too’)
+a: The news is so good that it cannot be true. 
+73: As soon as the chairman arrived, the directors put up their demands. (Use: no sooner’)
+a: No sooner did the chairman arrive, than the directors put up their demands. 
+74: He agreed with his son on the choice of his subjects. (Use: ‘oppose’) 
+a: He did not oppose his son on the choice of his subjects. 
+75: The king received his General coldly after losing the war. (Use: ‘cold’)
+a: The king's reception of his General after losing the war was cold. 
+76: Shankar is so intelligent that he doesn’t need any advice.(Use: ‘too’)
+a: Shankar is too intelligent to need any advice.
+77: As soon as the crowd started shouting the slogans, the Minister ran away. (Use: ‘no sooner’)
+a: No sooner did the crowd start shouting slogans than the Minister ran away.
+78: He succeeded in the competition in the very first attempt. (Use: ‘fail’)
+a: He did not fail in the competition in the very first attempt. 
+79: She does not intend to participate in the tournament. (Use: ‘intention’)
+a: She has no intention of participating in the tournament.
+a: She does not have an intention to participate in the tournament.
+80: Emily was waiting for the train. She was reading Tolstoy’s War and Peace. (Combine the two without using and or but) 
+a: While Emily was waiting for the train, she was reading Tolstoy’s War and Peace. 
+81: Saroja sang well. She received the first prize. (Begin: Not only ….)
+a: Not only did Saroja sing well but also received the first prize.
+82: The porter said to me “I will take your luggage to the retiring room provided you give me a good tip?” (Change the narration.)
+a: The porter told me that he would take my luggage to the retiring room provided i gave him a good tip.
+83: If Ajay gets a scholarship, his parents will be elated. (Use ‘unless’ in place of ‘if’)
+a: Unless Ajay gets a scholarship, his parents will not be elated.
+84: The children were spellbound by the exceptional sight of an elephant bathing. (Change the voice)
+a: The exceptional sight of an elephant bathing spellbound the children.
+85: The protesters turned violent. Immediately the police blocked the roads. (Use: No sooner….)
+a: No sooner did the protesters turned violent than the police blocked the roads.
+86: The film was so dreary to me that I will not recommend it to anyone.(Use: too)
+a: The film was too dreary to me to recommend it to anyone.
+87: Our football team is one of the favourites in the tournament. (Begin: Very few…..)
+a: Very few teams in the tournament are as favourite as our foot ball team.
+88: Those that are hapless ought to have our sympathy. [Begin: The hapless…]
+a: The hapless ought to have our sympathy.
+89: The reason for his sudden departure is a mystery. [ Rewrite using ‘why’)
+a: No one knows why he suddenly departed.
+90: Sheila could not understand the reason for her sister’s offensiveness. [Use: offensive] 
+a: Sheila could not understand why her sister was so offensive.
+b: Sheila could not understand why her sister was offensive.
+91: You ought to be more committed.[Begin: Use the noun form of committed]
+a: You ought to have more commitment
+92: During her turbulent days Renee had the help of only her friend Sasha. [Begin: Apart…] 
+a: Apart from her friend Sasha, Renee had no other help during her turbulent days.
+93: Reshma asked, “Are you confident that this is the procedure to secure a bank loan?” [Change into reported speech] 
+a: Reshma asked whether I was confident that that was the procedure to secure a bank loan.
+94: Stephen apologised earnestly but that had little impression on the teacher. [Begin: Not even …]
+a: Not even Stephen's earnest apology had any impression on the teacher.
+95: It is normal for a child to eat four times a day. [Begin: Normally]
+a: Normally a child eats four times a day.
+96: I said to him , "You are doing my work now." [Change into reported speech]
+a: I told him that he was doing my work then.
+97: He said, "I am here." [Change into reported speech]
+a: He said that he was there.
+98: He is as cunning as a fox [Begin: A fox is not ...]
+a: A fox is not as cunning as him.
+99: Amazing feats were shown by the acrobats [Change the voice]
+a: The acrobats showed amazing feats.
+100: Raman said, "I am never going to invite you again." [Change the narration]
+a: Raman said he was never going to invite me again.
+101: "Where can I park my car?" she asked the policeman. [Change the narration]
+a: She asked the policeman where she could park her car.
+102: This is the hottest summer we ever had. [Use: hot]
+a: No other summer we ever had was as hot as this.
+103: I was annoyed by his behaviour. [Change the voice]
+a: His behaviour annoyed me. 
+104: I am invited. [Supply a question tag]
+a: I am invited, am I not?
+105: The teacher said, "Have you done your homework?" [Change the narration]
+a: The teacher enquired whether he had done his homework.
+106: As soon as the tiger attacked the rabbit, it attacked. [Begin: No sooner]
+a: No sooner did the tiger attack the rabbit than it attacked.
+107: No other athlete in our school is as fast as Rachel. [Use: fastest]
+a: Rachel is the fastest athlete in our school.
+108: If you do not hurry up, you will miss the train. [Begin: Unless…]
+a: Unless you hurry up, you will miss the train.
+109: I was so tired that I was not able to follow him. [Use: too]
+a: I was too tired to follow him.
+110: Can we ever forget those happy days? [Rewrite as an Assertive sentence]
+a: We can never forget those happy days.
+111: He did not come. He did not write a letter. [Use:'neither... nor...']
+a: Neither did he come nor did he write a letter.
+112: He passed the examinations. He got a gold medal.[Use:'not only...']
+a: Not only did he pass the examination but also got a gold medal.
+113: As I frowned harder and harder, he smiled more and more broadly. [Begin: The harder….]
+a: The harder I frowned, the broader he smiled.
+a: The harder I frowned, more broadly did he smile.
+114: This place is the best place to observe the sunset. [Use: better]
+a: No other place is better than this to observe the sunset.
+115: How thrilling it was to see the celebration! [Begin: It...]
+a: It was thrilling to see the celebration.
+116: From the news channels came the report that blockade was over. [Begin: The news channels …]
+a: The news channels reported that the blockade was over.
+117: I asked my mother whether she thought that I was foolish. [Change into Direct Speech]
+a: I said to my mother, "Do you think I am foolish?"
+118: The student said, “I shall finish the project today.” [Change into reported speech]
+a: The student said that he would finish the project the same day.
+a: The student said that he would finish the project that day.
+119: This is the last time you will ever sit in this cinema. [Begin: Never...]
+a: Never again will you sit in this cinema.
+120: A senseless man repeats his mistakes. [Rewrite using ‘sensible’.]
+a: A sensible man does not repeat his mistakes.
+121: She is so weak that she cannot walk by herself. [Rewrite using ‘so...that...]
+a:  She is so weak that she cannot walk by herself.
+122: They finished their work. They went home. [Begin: No sooner…]
+a: No sooner did they finish their work than they went home.
+123: This place is the best place to observe the elephants. [Use: better]
+a: This place is better than any other place to observe the elephants.
+124: How exhilarating it was to see the rainbow! [Begin: It...]
+a: It was very exhilarating to see the rainbow.
+a: It was exhilarating to see the rainbow.
+125: From radios came the report that the war was over. [Begin: radios…]
+a: Radios reported that the war was over.
+126: I asked her whether she thought that I was boring. [Change into Direct Speech]
+a: I asked her, “Do you think that I am boring?”
+127: The student said, “I shall work hard.” [Change into reported speech]
+a: The student said that he would work hard.
+128: This is the last time you will ever sit in this cinema. [Begin: Never...]
+a: Never again will you sit in this cinema.
+129: A senseless man repeats his mistakes. [Rewrite using ‘sensible’.]
+a: A sensible man does not repeat his mistakes.
+130: She is so weak that she cannot walk by herself [Rewrite using ‘too...]
+a: She is too weak to walk by herself.
+131: They finished their work. They went home. [Begin: No sooner…]
+a: No sooner did they finish their work than they went home.
+a: No sooner had they finished their work than they went home.
+132: Rajan is a scholar in Sanskrit. He is fluent in French too. [Begin: Not only….]
+a: Not only is Rajan a scholar in Sanskrit but also fluent in French.
+a: Not only is Rajan a scholar in Sanskrit but also he is fluent in French.
+133: As soon as the train entered the station, the porters scrambled onto the train. [No sooner…]
+a: No sooner did the train enter the station than the porters scrambled onto the train.
+134:  The magician said, “Will anyone come onto the stage? I am going to perform a miracle that I performed yesterday in another town.” [Rewrite in reported speech]
+a: The magician asked whether anyone would come onto the stage and added that he was going to perform a miracle that he had performed the previous day in another town.
+a: The magician asked whether anyone would come onto the stage and he added that he was going to perform a miracle that he had performed the previous day in another town.
+135: The old lady requested the boy to help her to cross the road. [Begin: The boy…]
+a: The boy was requested by the old lady to help her to cross the road.
+136: The children were so ill-mannered that I could not tolerate them. [ Use: too]
+a: The children were too ill-mannered for me tolerate.
+a: The children were too ill-mannered for me tolerate them.
+137: If the flood had subsided, the crop would not have been damaged. [Begin: Had…]
+a: Had the flood subsided, the crop would not have been damaged.
+138: This is one of the most attractive places I have ever visited. [ Begin: Very few…]
+a: Very few places I have ever visited are as attractive as this.
+139: The students have probably answered the questions well. [Begin:  In…]
+a: In all probability, the students have answered the questions well.
+140: Raphael was driving the car. He was listening to the Prime Minister’s speech. (Combine the two without using and or but)
+a: While driving the car, Raphael was listening to the radio. 
+141: Serena won the race. She retained her overall record. (Begin: Not only ….)
+a: Not only did Serena win the race but also retained her overall record.
+142: The tourist said to me “I cannot see any landmarks in this guide. Can you direct me to the railway station today as you did yesterday? ” (Change the narration.)
+a: The tourist said to/told me that he could not see any landmarks in that guide and asked me whether I could direct him to the railway station that day as I had done/did the previous day/the day before.
+143: If it rains, the farmers will be relieved. (Use ‘unless’ in place of ‘if’)
+a: Unless it rains, the famers will not be relieved.
+144: The astronomers were fascinated by the rare phenomenon of the yellow moon. (Change the voice)
+a: The phenomenon of the yellow moon fascinated the astronomers.
+145: The crowd blocked off the road. Immediately the police came in swarms. (Use: No sooner….)
+a: No sooner did the crowd block/had blocked off the road than the police came in swarms.
+146: The book is so boring to me that I will not recommend it to anyone. (Use: too)
+a: The book is too boring to me to recommend it to anyone.
+147: Our school team is one of the strongest in the tournament. (Begin: Very few…..)
+a: Very few school teams/teams in the tournament are as strong as our school team.
+148: They have pulled down the old building. (Begin: The old building…...)
+a: The old building was pulled down by them.
+149: Though he was young, he fought valiantly. (Use ‘as’ instead of ‘though’)
+a: Even as he was young, he fought valiantly.
+150: As soon as he gets money, he spends it. (Begin: No sooner …...)
+a: No sooner does he get money than he spends it.
+151: He ran too quickly for me to catch him. (Rewrite using ‘so....that.)
+a: He ran so quickly that I could not catch him.
+152: If you do not put some oil on the hinge, it will squeak. (Begin: Unless…...)
+a: Unless you put some oil on the hinge, it will squeak.
+153: Put on your warm clothes, otherwise you will catch a chill. (Use ‘lest’ instead of ‘otherwise’.)
+a: Put on your warm clothes lest you will catch a chill.
+154: Although he has a car, he often goes to the office by bus. (Change into a simple sentence using ‘In spite of ’.)
+a: In spite of having a car, he often goes to the office by bus.
+155: As soon as they began to speak, they heard a loud knock at the door. (Begin: Scarcely…...)
+a: Scarcely had they began to speak when they heard a loud knock at the door.
+156: It is better to starve than to beg. (Begin: Starving…...)
+a: Starving is better than begging.
+157: They made Newton President of the Royal Society. (Change the Voice.)
+a: Newton was made President of the Royal Society by them.
+158: Half of the people in the village …….illiterate. (Use: is/are)
+a: Half of the people in the village are illiterate.
+159: I do not admire any writer as much as Bloom. (Use: most)
+a: Among all writers, I admire Bloom the most.
+160: The teacher said to Ali, “Do not feel hopeless. Be bold. Never give up. You can do it.” (Change into reported speech)
+a: The teacher told Ali not to feel hopeless, to be bold and never to give up and assured him that he could do it.
+161: The Principal asked the errant student to mend his ways. (Begin: The errant boy…)
+a: The errant boy was asked to mend his ways by the Principal.
+162: No one has scored as many goals as Lionel Messi. (Begin: Lionel...)
+a: Lionel Messi has scored the most number of goals.
+163: Though Rafeeqa lost the first game, she had the last laugh at the end of the match. (Use: Despite)
+a: Despite losing the first game, Rafeeqa had the last laugh at the end of the match.
+164: Raphael was stupid to believe the con man. (Use: enough)
+a: Raphael was stupid enough to believe the con man.
+165: The roguish boy is crazy of the voluptuous actress; he has a cache of her photographs. (Change into a simple sentence)
+a: Being crazy of the gorgeous actress, the roguish boy has a cache of her photographs.
+166: He has never made such a stupid mistake before. [Begin: Never…]
+a: Never before has he done such a stupid mistake.
+a: Never has he done such a stupid mistake.
+167: If I were you, John, I would consult a doctor. [Use: the correct form of advice]
+a: I advised John to consult a doctor.
+168: The fans were saddened when the player decide to retire. [Use: noun form of decision]
+a: The player’s decision to retire saddened the fans.
+169: I exercise daily. What about you? [Combine the sentences]
+a: Do you exercise daily as I do?
+170: Who replaced the good umbrella with a broken one? [Use: substitute]
+a: Who substituted the broken umbrella for a good one?      
+171: Camilla is said to have been a diplomat. [Begin: People…]
+a: People say that Camilla has been a diplomat.
+172: Anoushka did not study regularly.  She regrets it now. [Use: wishes]
+a: Anoushka wishes that she had studied regularly.
+173: Rich as Job is, he is not unsympathetic towards the needy. [Begin: Despite...]
+a: Despite being rich, Job is not unsympathetic towards the needy.
+174: Jolly said, ‘Let me win the lottery.’  [Change into indirect speech]
+a: Jolly wished that she might win the lottery.
+175: But for the injured foot, he would have won the race. [Begin: Had…]
+a: Had he not injured his foot, he would have won the race.
+176: Alif exercised daily because he wanted to have strong muscles. [Use: In order ......should]
+a: In order that he should have string muscles, Alif exercised daily.
+177: When the teacher went out, the children ran out. [End: ...the children]
+a: When the teacher went out, out ran the children.
+178: “Are you still angry at me?” Kim asked me. [Change into Indirect Speech]
+a: Kim asked me whether I was still angry at her.
+a: Kim asked me whether I was still angry at him.
+179: “Who had bought these beautiful paintings yesterday?” [Change the voice]
+a: “By whom had these beautiful painting been bought yesterday?” 
+180: Raquel was so adamant that he will not listen to any advice. [Change into a positive sentence]
+a: Raquel was too adamant to listen to any advice.
+181: Rachel likes Karun more than Sid. [Change into Positive Degree]
+a: Rachel does not like Sid as much as Karun.
+182: A student should not speak like that. [Begin: Is...]
+a: Is that the way a student should speak?
+183: Work hard to succeed. [Begin: None .....]
+a: None will succeed without hard work.
+184: It is a pity that the culprit was not punished. [Begin: I wish …………..]
+a: I wish the culprit was punished.
+185: Rosanna was so ecstatic with the success that she started weeping. [Begin: So ………………]
+a: So ecstatic was Rosanna with the success that she started weeping.
+186: Richard returned to work a week ago. [Begin: It has been ……...]
+a: It has been a week since Richard returned to work.
+187: A loving heart is the divinest creation of God. [Begin: No other ………..]
+a: No other creation of God is as divine as a loving heart.
+188: Hardly had Serena won the match when the crowd gave her a standing ovation. [Begin: No sooner……….]
+a:  No sooner had Serena won the match than the crowd gave her a standing ovation.
+189: Marita said to Mathew, "Please, do not forget to bring the flowers tomorrow". [Begin: Mathew………….]
+a: Mathew was asked by Marita to not forget to bring the flowers next day.
+a: Mathew was requested by Marita to not forget to bring the flowers next day.
+190: There was heavy rain. The game continued. [Begin: Despite…………..]
+a: Despite heavy rain, the game continued.
+191: The taxi is very slow. We cannot reach the station in time. [Use: too………………….]
+a: The taxi is too slow to reach the station in time.
+192: Why did Renuka skip the test? (Change the voice)
+a: Why was the test skipped by Renuka?
+193:  “Did you understand the poem well yesterday?” the teacher asks. (Begin: The teacher asked….)
+a: The teacher asked whether I had understood the poem the previous day.
+a: The teacher asked whether we had understood the poem the previous day.
+a: The teacher asked if  I had understood the poem the previous day.
+a: The teacher asked if  we had understood the poem the previous day.
+194: He snatched the ball from him and scored a goal. (Begin: Not only…..)
+a: Not only did he snatch the ball from him but also scored a goal.
+195: The Kotla grounds were too damaged to conduct the match. (Use: so….that)
+a: The Kotla grounds were so damaged that it was not possible conduct the match.
+196: Though skilled in painting, he was not admitted to the competition. (Begin: Despite…)
+a: Despite being skilled in painting, he was not admitted to the competition.
+a: Despite his skill in painting, he was not admitted to the competition.
+197: As soon as the match started, the crowd turned violent. (Begin: No sooner….)
+a: No sooner did the match start than the crowd turned violent.
+a: No sooner had the match started than the crowd turned violent.
+198: Ajay is very popular in the class as he is intelligent. (Use the noun form of intelligent)
+Ajay’s intelligence makes him very popular in the class. (Use the noun form of ‘intelligent’)
+199: ‘The Hurt Locker’ is one of the best films released this year. (Use: good)
+a: No other film released this year is as good as 'The Hurt Locker'.
+200: He saw the car rushing towards him and leapt aside. (Begin: Having……)
+a: Having seen the car rushing towards him, he leapt aside.
+201: The police are looking into the matter. (Provide a suitable question tag)
+a: The police are looking into the matter, aren’t they?
+202: They not only robbed the old man but also they beat him up. (Begin: Besides .............................................)
+a: Besides robbing the old man, they also beat him up.
+203: We will hire a taxi if we miss the bus. (Begin: If ......................)
+a: If we miss the bus, we will hire a taxi.
+204: Though he had a headache, he enjoyed the film. ( Begin: Despite .............................................)
+a: Despite having a headache, she enjoyed the film.
+205: If Thomas improves his IT skills, he will get a better-paid job. (Begin: Unless............................................. )
+a: Unless Thomas improves his IT skills, he will not get a better-paid job.
+206: People believe that the culprit has escaped from the prison. (Begin: The culprit.............................................)
+a: The culprit is believed by people to have escaped from the prison.
+207: The thief hid behind a wall so that the police might not see him. (Use ‘lest’.)
+a: The thief hid behind a wall lest the police see him.
+208: As soon as he heard the footsteps behind him, he took out the revolver. (Begin: No sooner .............................................)
+a: No sooner did he hear the footsteps behind him than he took out the revolver.
+209: He has probably forgotten my address. (Begin: In .............................................)
+a: In all probability, he has forgotten my address.
+210: As soon as the teacher went away, the children went way.  [Begin: No sooner….] 
+a: No sooner did the teacher go away than the children went away.
+211: The earthquake damaged the city extensively.  [Use: extensive…]
+a: The earthquake caused extensive damage to the city. damaged the city extensively. 
+212: Only the best will be rewarded.    [Use: None…] 
+a: None but the best will be rewarded.
+213: He is so honest that he will not cheat me.   [Use: too….]
+a: He is too honest to cheat me.  
+214: Opening a Primary Heath Centre in a village is planned. [Begin: It…]
+a: It is planned to open a Primary Heath Centre in a village.
+215: Nothing can be gained without effort.   [Begin: Can…]
+a: Can anything be gained without effort? 
+216: ‘But for your timely help, I would have failed.’ John said to Tom. [Change into Indirect Speech]
+a: John said to Tom that if he had not helped him in time he would have failed.
+217: What does Francis feel about the game of hide-and-seek? [ Change the voice]
+a: What is felt by Francis about the game of hide-and-seek?
+218: I cannot give you her address. I cannot take to her house. [Begin: Neither…]
+a: Neither can I  give you her address nor take to her house.
+219: We go to a restaurant every Sunday. This restaurant. [Use: where]
+a: This the restaurant where we go every Sunday.
+220: I returned home. I found my mother fighting with the neighbour. (Begin: On…) 
+a: On returning home, I found my mother fighting with the neighbour.
+221: Mina is one of the most brilliant students in our school. (Begin: Very few…)
+a: Very few students in our school are as brilliant as Mina.
+222: As soon as the rain stopped, the children rushed to the playground. (Begin: No sooner…)
+a: No sooner did the rain stop than the children rush to the playground.
+223: If the taxi had not come in time, I would have missed the flight. (Begin: Had…)
+a: Had the taxi not come in time, I would have missed the flight.
+224: The traveller said, “Are the forests here dangerous?” (Change into Reported speech)
+a: The traveller asked whether the forests there were dangerous.
+225: John said “Let me have a pocketful of gold coins.” (Change into Reported speech)
+a: John asked for a pocketful of gold coins.
+a: John requested for a pocketful of gold coins.
+226: You are too inexperienced to be given the job. (Use: so…that)
+a: You are so inexperienced that you cannot be given the job. 
+227: Can you assist me to lift this bag? (Change the voice)
+a: Can I be assisted by you to lift this bag?
+228: The management may have to postpone the event due to rain. (Begin: If…)
+a: If it rains, the management may have to postpone the event.
+229: You have probably given the book to somebody. (Begin: In…)
+a: In all probability, you have to give the book to somebody.
+230: Sajana exclaimed that Hyderabad is a very crowded city. [Change narration]
+a: Sajana said, "Hyderabad is a very crowded city!"
+231: Annette is the best seamstress in our town. [Begin: No other…]
+a: No other seamstress in our town is as good as Annette.
+232: Zeenath said, ‘Why don’t you apply for the post, Jasmine?’ [Begin: Jasmine ….]
+a: Jasmine was asked by Zeenath to apply for the post.
+a: Jasmine was advised by Zeenath to apply for the post.
+233: To my surprise, the train was not running late. [Use: find]
+a: To my surprise, I found that the train was not running late.
+234: The crowd started pelting stones at the politician. Instantly the police arrived. [Use: No sooner….]
+a: No sooner did the crowd start pelting stones at the politician than the police arrived.
+235: The play is so dull that I will not recommend it to anyone. [Use: too]
+a: The play is too dull to recommend to anyone.
+a: The play is too dull for me to recommend it to anyone.
+236: Roberto is the best player, but he was not included in the team. [Begin: Despite…]
+a: Despite being the best player, Roberto was not included in the team. 
+237: If Hemant had listened to the doctor’s advice, he would have been cured of the illness. [Begin: Had….]
+a: Had Hemant listened to the doctor's advice, he would have been cured of the illness.
+238: I have never heard such a lot of nonsense before.  (Begin: Never before…)
+a: Never before have I heard such a lot of nonsense.
+239:  He was exhausted but still he kept going. (Begin: Despite…)
+a: Despite his exhaustion, he kept going.
+240: He said, “If I were you, George, I would start immediately." (Begin: He advised….)
+a: He advised George to start immediately.
+241: I had scarcely finished the speech when Rajiv jumped to his feet. (Begin: No sooner…)
+a: No sooner had I finished the speech than Rajiv jumped to his feet.
+242: The tourists were the only ones who witnessed the capture of the elephants. (Begin: No one)
+a: No one except the  tourists witnessed the capture of the elephants
+243: I did not meet him, so I could not give him your message. (Begin: If I had…)
+a: If I had met him, I could have given him your message.
+244: The thief got in because you did not lock the door properly. (Use: since)
+a: Since you did not lock the door properly, the thief got in.
+245: Samira wishes that she had studied her lessons well in advance. (Use: regrets)
+a: Samira regrets that she had not studied her lessons well in advance.
+246: Either Nita or her sister …… at fault. (Fill in using ‘is/are’)
+a: Either Nita or her sister is at fault.
+247: Why did you not attend the function last night? (Change the voice.)
+a: Why was the function last night not attended by you?
+248: Sheena said,” Alas! How foolish of me to leave out one question!” (Change into indirect speech)
+a: Sheena exclaimed that she had been foolish to leave out one question.
+249: The Taj Mahal is the grandest building in the world. (Use: ‘grand’)
+a: No other building in the world is as grand as the Taj Mahal.
+250: None but a fool would do such a thing. (Change into an assertive sentence)
+a: Only a fool would do such a thing.
+251: As soon as he finishes his work, he starts singing in joy. (Begin: No sooner…..)
+a: No sooner does he finish his work than he starts singing in joy.
+252: You should open the door then only you will come to know what lies behind it. (Rewrite using ‘Unless’)
+a: Unless you open the door, you will not come to know what lies behind it.
+253: The suit was so expensive that I could not buy it. (Use: too)
+a: The suit was too expensive for me to buy it.
+254: It was too hot. We could not practice our game. (Begin: Had ….)
+a: Had it not been too, we could have practised our game.
+255: He was late. He was admitted. (Use ‘despite’) 
+a: Despite being late, he was admitted.
+256: The Prime Minister invited each member of the cabinet to state his views. (Change the Voice.)
+a: Each member of the cabinet was invited by the Prime Minister to state this views.
+257: Jackson said to me, “I have bought a book on wildlife.” (Change into Reported Speech.)
+a: Jackson told me that he had bought a book on wildlife.
+258:  He went to England to perfect his English. (Change into a Complex Sentence using ‘so that’)
+a: He went to England so that he could perfect his English.
+259: If you have enough money, you can stay in that expensive hotel. (Begin: Provided that........)
+a: Provided that you have enough money, you can stay in that expensive hotel.
+260: When he entered the room, he took off his hat. (Begin: On........)
+a: On entering the room, he took off his hat.
+261: If you had not lied to me before, I would have believed you. (Begin: Had........)
+a: Had you not lied to me before, I would have believed you.
+262: Although she has no particular talent for music, she sings tolerably well. (Begin: In spite of........)
+a: In spite of having no particular talent for music, she sings tolerably well.
+263: The young man was too furious to contain himself. (Use: so.... that)
+a: The young man was so furious that he could not contain himself.
+264: Only a dedicated scientist can provide such a detailed report. (Begin: None…...)
+a: None but a dedicated scientist can provide such a detailed report.
+265: As soon as the teacher had gone, the students started to mess around. (Begin: No sooner........)
+a: No sooner had the teacher gone than the students started to mess around.
+266: The thief ran away the moment he saw me. (Begin: No sooner…)
+a: No sooner did the thief see me than he ran away.
+267: He did not speak a word. (Begin: Not…)
+a: Not a word was spoken by him.
+268: He is so addicted to alcohol that he cannot give it up. (Use: too)
+a: He is too addicted to alcohol to give it up.
+269: The guide said to us, “You can see the tigers from there. Do you want to go there?” (Change into indirect speech)
+a: The guide told us that we could see the tigers from there and asked if we wanted to go there.
+270: The only thing I could see in the forest was a starved monkey. (Begin: Apart…)
+a: Apart from a starved monkey, we did not see anything in the forest.
+271: We assisted the old lady to cross the road. (Begin: The old…)
+a: The old lady was assisted by us to cross the road.
+272: The teacher said to us, “Let all of you prosper in your life.” (Change into indirect speech)
+a: The teacher wished us prosperity in our lives.
+a: The teacher said that she wanted all of us to prosper in our lives.
+273: The film is not entertaining. The film does not have a message. (Use: Neither .....nor)
+a: Neither the film is entertaining nor has a message.
+274: Only the brave get rewarded (Use: None)
+a: None but the brave get rewarded.
+275: As soon as the child starts talking, the parents try to teach them rhymes. (begin: No sooner)
+a: No sooner does the child start talking than the parents try to teach them rhymes.
+276: His qualification was so deficient that the committee rejected his application. (Use: too)
+a: His qualification was too deficient for the committee to accept his application.
+277: He was too arrogant to be an efficient leader. (Use: Change into a negative sentence)
+a: He is so arrogant that he cannot be an efficient leader.
+278: The robber should confess or he will be condemned. (Use: Unless)
+a:   Unless the robber confesses, he will be condemned.
+279:Some of the flowers in the market are costlier than the orchid. (Begin: The orchid...)
+a:  The orchid is not as costly as some of the flowers in the market.
+280: The President of the company said, “I will ensure that the employees are exempted from overtime work. Do you have any objection to my proposal?” (Change the narration)
+a: The President of the company said that he would ensure that the employees were exempted from overtime work and asked whether they had any objection to his proposal.
+281: The Prime Minister says, “Our country has progressed immensely.” (Change the narration]
+a: The Prime Minister says that our country has progressed immensely.
+282: You should practise what you preach. (Begin: Practise...)
+a: Practise what you preach.
+283: He was sufficiently courageous to face the dreadful enemy. (Use: courage)
+a: He had enough courage to face the dreadful enemy.
+a: He had courage enough to face the dreadful enemy.
+284: We can always rely on your friend. (Change to interrogative)
+a: Can we always rely on your friend?
+285: We expect that they will finish the assignment by Monday. (Use them instead of they)
+a: We expect them to finish the assignment by Monday.
+a: It is expected of them to finish the assignment by Monday.
+286: We are too proud to admit our mistakes. (Use: so…that)
+a: We are so proud that we will not admit our mistakes.
+287: The manager was very honest, yet he was dismissed. (Begin: In spite of…..)
+a: In spite of being honest, the manager was dismissed.
+a: In spite of his honesty, the manager was dismissed.
+288: The government is planning to establish a health centre in the village. (Use: the noun form of establish)
+a: The government is planning the establishment of a heath centre in the village.
+a: Establishment of a health centre is being planned by the government.
+289: Robert asked Violet, “Is this the right way to proceed? Can you guide me in this task?” (Change into indirect speech)
+a: Robert asked Violet whether it was the right way to proceed and asked her whether she could guide him in that task.
+290: As soon as Oliver sees Celia, he falls in love with her. (Begin: No sooner….)
+a: No sooner does Oliver see Celia than he falls in love with her.
+291: He did not know how dangerous it is going to be. Otherwise he would not have attempted it. (Begin: Had ….)
+a: Had he known how dangerous it was going to be, he would not have attempted it.
+292: Ethiopia is one of the most deprived countries in the African continent. (Begin: Very few….)
+a: Very few countries in the African continent are as deprived as Ethiopia.
+293: My mother arrived a month ago. (Begin: It has…..)
+a: It has been a month since my mother’s arrival.
+294: The wounded were taken to the nearby hospital by an ambulance. (Change the voice)
+a: An ambulance took the wounded to the nearby hospital.
+295: Shah wrote a letter of apology to Sam, but not even that removed his anger.[Begin: Not even …]
+a: Not even a letter of apology by shah to Sam removed his anger. 
+296: The mother asked, “Are you the hero who saved my child?” [Change into reported speech]
+a: The mother asked whether/if I was the hero who/that saved her child.
+297: In the heavy rain, I had no company other than from a wet cat. [Begin: Apart…]
+a: Apart from a wet cat, I had no other company in the heavy rain.
+298: One should keep one’s promises. [Begin: Promises…]
+a: Promises should be kept.
+299: The teacher could not understand the reason for his absence. [Use absent instead of absence.] 
+a: The teacher could not understand why he was absent.
+300: My father said to me” Let us go to the club.” [Change into indirect speech]
+a: My father asked me to go with him to the club.
+a: My father asked me to go to the club with him.
+301: No other empire in the world was as powerful as the Roman empire. [Use: most]
+a: Most empires in the world were not as powerful as the Roman empire.
+302: As soon as he wins the race, he prostrates on the track. [Begin: No sooner…]
+a: No sooner does he win the race than he prostrates on the track.
+303: The Principal disagreed with the proposal of the students, didn’t he? [ Use: agree]
+a: The Principal did not agree with the proposal of the students.
+304: Who replaced the player after he was injured? [ Use substitute instead of replaced]
+a: Who substituted the player after he was injured?
+305: Jasper has probably forgotten his mother’s birthday. [Begin: In…] 
+a: In all probability, Jasper has forgotten his mother's birthday.
+306: For more information, please, contact the receptionist of the hotel. [Begin: if…]
+a: If you need more information please contact the receptionist of the hotel.
+a: If you want more information please contact the receptionist of the hotel.
+307: He could not participate in the race as he had an injured foot. [ Use: ’prevented’]
+a: An injured foot prevented him from participating in the race.
+308: Those that are helpless deserve our pity. [Begin: The helpless…]
+a: The helpless deserve our pity.
+309: The reason of her failure is not known. [ Rewrite using ‘why’ in the sentence]
+a: Why she failed is not known.
+310: The publisher accepted the writer’s proposal ultimately.  (Use: ‘reject’)
+a: The publisher did not reject the writer’s proposal ultimately.
+311: James suddenly thought of a wondrous project. (End with: _____ to James)
+a: A wondrous project suddenly occurred to James.
+312: Fauzia missed the flight as she was late. (Use: ‘catch’)
+a: Fauzia could not catch the flight as she was late.
+313: The neighbours returned one week ago. (Begin with: ‘It has’…..)
+a: It has been a week since the neighbours returned/ the neighbours’ return.
+314: Reema is a wise girl. The other girls are not so wise. [Begin: Very few….]
+a: Very few girls are as wise as Reema.
+315: You must work conscientiously. You will lose your ranking otherwise.  [Use: Unless…]
+a: Unless you work conscientiously, you will lose your ranking.
+316: The driver was injured. He helped the victims. [Use: Despite]
+a: Despite being injured, the driver helped the victims.
+317: Of what use is this tool to you? (End with: ……….. you.)
+a: This too is of no use to you.
+318: The rain had stopped. Immediately, the children ran to their home. [Begin: No sooner ...]
+a: No sooner did the rain stop than the children ran to their home
+319: You should complete the assignment by Monday. [Begin: The assignment ...]
+a: The assignment should be completed by Monday by you
+320: The task appears to be difficult. [Begin: It…]
+a: It appears that the task is difficult.
+321: Jamila said, “May I come a little late tomorrow?” [Change into Indirect Speech]
+a: Jamila asked whether she could come a little late the next day.
+322: Will the management agree to your proposal?  [Change the Voice]
+a: Will your proposal be agreed to by the management?
+323: The wheel came off, and the car skidded into a ditch. [Begin: Had….]
+a: Had the wheel not come off, the car would not have skidded into a ditch.
+324: Pamela is one of the best doctors in the hospital. [Change into Positive Degree]
+a: Very few doctors in the hospital are as good as Pamela.  
+325: I am to visit the Principal tomorrow. [Provide a Question tag]
+a: I am to visit the Principal tomorrow, aren’t I?
+326: The protesters created havoc in the hall. The Chairman was delivering the speech. (Combine the two)
+a: While the Chairman was delivering the speech, the protesters created havoc in the hall. 
+327: Krishna took the injured to the the hospital. He donated blood too. (Begin: Not only ….)
+a: Not only did Krishna take the injured to the hospital but also donated blood.
+328: The teacher said to him, “Have you finished your project?” (Change the narration.)
+a: The teacher asked him if/whether he had finished his project.
+329: The lawyer argued the case thoroughly. (Begin: The case…..)
+a: The case thoroughly argued by the lawyer.
+330: If he agrees to deliver the speech, we will be delighted. (Use ‘unless’)
+a: Unless he agrees to deliver the speech, we will not be delighted/ we will be disappointed.
+331: Roja asked, “John, please, attend my party.” (Begin: John….)
+a: John was asked by Roja to attend her party.
+332: He saw a bus coming at full speed. Immediately he stopped the old woman cross the street. (Use: No sooner….)
+a: No sooner did he see a bus coming at full speed than he stopped the old woman cross the street.
+333: He was too strongheaded  to accept the argument. (Use: so…that) 
+a: He was so strong headed that he would not accept the argument.
+334: Tagore is one of the most popular poets in the West. (Use: Very few)
+a: Very few poets are as popular as Tagore in the West.
+335: She is loved by all because she is kindhearted. (Use: kindness)
+a: She is loved by all because of her kindness. 
+336: Order today and get a free gift. (Begin: If...)
+a: If you order today, you will get a free gift.
+337: Who taught you embroidery? (Begin: By...)
+a: By whom was you taught embroidery?
+338: My sister’s attitude annoys me sometimes. (Begin: I...)
+a: I am annoyed by my sister’s attitude sometimes.
+339: The match was so important that we could not forget it. (Use: too)
+a: The match was too important for us to forget.
+340: I did not speak word. (Begin: Not...)
+a: Not a word did I speak. 
+341: Anurima is one of the best debaters in our class. (Use: good)
+a: Very few girls in our class are as good a debater as Anurima.
+342: Rakesh asked, “In which year you finished your school?” ( Change the narration)
+a: Rakesh asked me in which year I had finished school.
+343: Do you not regret your action? (Begin: Surely...)
+a: Surely you must be regretting your action.
+a: Surely you regret your action, don’t you?
+344: Closely watching him, I hid in bush. (Use: watched)
+a: I watched him closely and then hid in a bush.
+345: The computer maintenance did not require much money. (Use: expensive)
+a: The computer maintenance was not expensive.
+346: Do you believe in aliens? (End: exist)
+a: Do you believe that aliens exist?
+347: Jane is the most honest girl in the class. [ Change into positive degree]
+a: No other girl in the class is as honest as Jane.
+348: As soon as I reached home, it started raining. [Begin: No sooner…]
+a: No sooner did I reach home than it started raining.
+349: He arrived on time, even though his car broke down on the way. (Use ‘despite)
+a: Despite his car breaking down on the way, he arrived on time.
+350: It was too hot for us to eat the pakoras. (Use: ‘so… that’)
+a: It was so hot that we could not eat the pakoras.
+351: If the actress relents, she will get a chance in his new film.(Use: ‘unless’)
+a: Unless the actress relents, she will not get a chance in his new film. 
+352: “Will you help me?” said the boy to the teacher. [Change into indirect speech]
+a: The boy asked the teacher whether she would help him.
+353: George did not realise that he had committed an error. [Begin: Little …]
+a: Little did George realise that he had committed an error.
+354: I do not care which portfolio in the cabinet I am offered. [Begin: I care very…]
+a: I care very little which portfolio in the cabinet I am offered to me.
+a: I care very little which portfolio in the cabinet I is offered to me.
+355: Rachel must apologise or else she will be punished. [Use: apology]
+a: Rachel’s apology will save her from punishment.
+a: If Rachel makes an apology, she will not be punished.
+356: He succeeded in completing the assignments although he was ill. [Use: Despite…]
+a: Despite his illness, he succeeded in completing the assignments.
+357: If I had not intervened in the matter, it would have had a drastic consequence. [Begin: But…]
+a: But for my intervention in the matter, it would have had a drastic consequence.
+358: The granny opened the door and her pet dog ran out. [End: dog]
+a: The granny opened the door and out ran her pet dog.
+359: If a fire breaks out, use the emergency exit. [Begin: In case of ….]
+a: In case of a fire/fire, use the emergency exit.
+360: Always use a standard dictionary. Do not use the three-penny ones. [Use: in lieu of]
+a: Always use a standard dictionary in lieu of a three penny one.
+361: “Have you heard of the Yeti, Mohan?” , said Meera. [ Change into a statement]
+a: Meera asked Mohan whether he had heard of the Yeti.
+362: Rosa was so sure of winning the race that she skipped her daily practice. [Begin: So….]
+a: So sure of winning the race was Rosa that she skipped her daily practice.
+363: Caesar’s overbearing pride was the reason for his tragic fall. [Use: proud]
+a: Caesar tragically fell as he was overbearingly proud.
+a: Caesar was so overbearingly proud that he tragically fell.
+364: Joan was pretty .She was not intelligent. [combine using as]
+a: Joan was not as intelligent as she was pretty.
+365: If you need any help, call the Customer Care. [Begin: Should…]
+a: Should you need any help, call the Customer Care.
+366: They believe that honey is the ambrosia on earth. [Change the voice]
+a: It is believed that honey is the ambrosia on earth.
+367: You have to persevere in order to prove yourself in life. [Use: so that]
+a: You have to persevere so that you will/can/may prove yourself in life.
+368: Sheela was assured of a Scholarship by the Principal. (Begin: The Principal…)
+a: The Principal assured Sheela of a Scholarship.
+369: Abraham asked Sakshi, “Will you come with me to the dance classes from tomorrow.” (Change into Reported Speech)
+a: Abraham asked Sakshi whether she would come with him to the dance classes from the following day.
+370: Rahman fell ill, so he could not run the race. (Begin: Having….)
+a: Having fallen ill, Rahman could not run the race.
+371: Ritika could not understand the reason for her mother’s irritation. (Use: irritated)
+a: Ritika could not understand why her mother was irritated.
+372: The 100m dash is one of the most interesting races in Athletics. (Begin: Very few…)
+a: Very few races in Athletics are as interesting as the 100m dash.
+373: Most of the news ……. incredible. (Fill the blank correctly)
+a: Most of the news is incredible.
+374: Felix said that he had never been to a Chinese restaurant. (Change the narration)
+a: Felix said, “I have never been to a Chinese restaurant”.
+375: As soon as I entered the library, the lights went off. (Begin: No sooner…)
+a: No sooner did I enter the library than the lights went off.
+376: Besides being awarded a cash prize, Reena received a trophy too. (Begin: Not only…)
+a:  Not only was Reena awarded a cash prize but also received a trophy.
+377: If the police had not arrived in time, the burglar would have escaped. (Begin:  Had….)
+a: Had the police not arrived in time, the burglar would have escaped.
+378: The old man was too sick to walk. ( Remove: too) 
+a: The old man was so sick that he could not walk.
+379: Asher asked his sister “Will you not accompany me to the party tomorrow?” ( Use: if)
+a: Asher asked his sister if she would/would not accompany him to the party the next day/the day after.
+380: Besides making a promise, she kept it. (Begin: She)
+a: She kept her promise.
+a: She not only made a promise but also kept it. 
+381: He was immensely talented, yet he failed because of his laziness. (use: Despite)
+a: Despite his immense talent/ being immensely talented, he failed because of his laziness.
+382: As soon as the police rounded up his thugs, the leader vanished. (Use: no sooner)
+a: No sooner did the police round up/ had rounded up his thugs than the leader vanished. 
+383: Is he known to the manager? (End: him) 
+a: Does the manager know him? 
+a: Is the manager known to him? 
+384: The Kid is one of the most popular novels today. ( Change into positive degree) 
+a: Very few novels today are as popular as The Kid.
+385: The minister promised to look into the matter. (Use: investigate) 
+a: The minister promised to investigate the matter 
+386: The Principal asked the children to study regularly. ( Change the narration) 
+a: The Principal said, “Children, study well.”
+387: Read the answers carefully and correct the mistakes if any. ( Use: ‘go’ instead of ‘read’) 
+a: Go through the answers carefully and correct the mistakes if any.
+388: Very few subjects are as important as English. (Use: most)
+a: English is one of the most important subjects.
+389: Only if India wins the cup, we will have a holiday.( Change into a negative sentence) 
+a: Unless India wins the cup, we will not have a holiday. 
+a: If India does not win the cup, we will not have a holiday.
+390: The matter was reported to the commissioner. (Change the voice) 
+a: The commissioner was reported of/about the matter.
+391: She is very dull in studies. She is smart-looking. ( Combine the sentences) 
+a: Though dull in studies, she is smart-looking. 
+a: In spite of being dull in studies, she is smart looking. 
+a: Despite being dull in studies, she is smart looking.
+392: The Judge said to the Prosecutor, “Do you agree with the arguments presented yesterday?” Change into indirect speech)
+a: The Judge  asked the Prosecutor whether he agreed with the arguments presented (on) the previous day/the day before. 
+393: As soon as the results were declared, the web-server was very busy. (Begin: No sooner…)
+a: No sooner were the results announced than the web-server was busy.
+394: He said to his friend,” I go for a walk every day.” (Change into reported speech) 
+a: He said to his friend that he goes for a walk every day.
+a: He told his friend that he goes for a walk every day.
+395: I can go to the theater. (Provide a suitable question tag)
+a: I can go to the theater, can’t I?
+396: He is a diplomat and a poet. (Use: Not only…) 
+a: Not only is he a diplomat but also a poet.
+397: Focus on your goal or you will not achieve it. (Use: Unless)
+a: Unless you focus on you goal, you will not achieve it.
+398: If you aren’t a member of the Club, you cannot sit in the lounge. (Begin: You….)
+a: You should be a member of the Club to sit in the lounge.
+399: George asked, “Don’t you like to read books, Harris?” (Change the narration)
+a: George asked Harris whether he did not like to read books.
+400: The crowd turned violent since the policemen were rude. (Begin: But….)
+a: But for the rudeness of the policemen, the crowd would not have turned violent.
+401: When Renuka was in misery, no friends except Aruna helped her. (Begin: Apart….)
+a: Apart from Aruna, none of her friends helped Renuka in her misery.
+a: Apart from Aruna, none of her friends helped Renuka in misery.
+402: I entered the office. Sheela was getting out of the car. (Combine the two sentences)
+a: When I entered the office, Sheela was getting out of the car.
+403: No sooner had I arrived at the stadium than the match started. (Use: Hardly)
+a: Hardly had I entered the stadium when the match started.
+404: The Tin Drum is one of the greatest plays by Gunter Grass. (Use: great)
+a: Very few plays by Gunter Grass are as great as The Tin Drum.
+405: Jeremy was said to be in the army. (Begin: People….)
+a: People believed that Jeremy was in the army. 
+406: This project will take six months to finish. (Begin: In six months ….)
+a: In six months’ time the project will be finished.
+407: But for his help, he would have perished. [Begin: Had he…]
+a: Had he not helped, he would have perished.
+408: As soon as I reached home, it started raining. [Begin: Hardly…]
+a: Hardly had I reached home, when it started raining.
+409: She is the most arrogant girl in the class. [ Change into positive degree]
+a: No other girl in the glass is as arrogant as her.
+a: No other girl in the glass is as arrogant as she is.
+410: Nobody will deny that he tried his best. [Begin: Everyone….]
+a: Everyone will admit that he tried his best.
+a: Everyone will agree that he tried his best.
+411: Delhi is one of the most populous cities in India. (Use: ‘more’)
+a: Some of the cities in India are more populous than Delhi.
+412: The magistrate said to the lawyer, “You should submit your evidence now.” (Begin with: The magistrate told…….)
+a: The magistrate asked the lawyer that he should submit his evidence then.
+413: He was promised all help by us. ( Change the voice)
+a: We promised him all help.
+414: May God bless you with success! ( Change the voice)
+a: May you be blessed with success by God.
+415: The strike has been called off. ( Change the voice) 
+a: They have called of the strike.
+416: No one can understand him so soon. ( Change the voice)
+a: He cannot be understood so soon.
+417: They will not agree to this proposal. ( Change the voice)
+a: This proposal will not be agreed to.
+418: It is time to close the shops. ( Change the voice)
+a: The shops should be closed by now.
+a: It is the time for the shops to be closed.
+419: The teacher is calling the roll. ( Change the voice)
+a: The roll is being called by the teacher.
+420: What cannot be cured must be endured. ( Change the voice)
+a: We must endure what we cannot cure.
+a: One must endure what one cannot cure.
+421: God helps those who help themselves. ( Change the voice)
+a: Those who help themselves are helped by God.
+422: I will not answer any question now. ( Change the voice)
+a: No questions will be answered now by me.
+423: She has to do cooking and washing for me. ( Change the voice)
+a: The cooking and washing have to be done for me by her.
+424: A rolling stone gathers no mass. ( Change the voice)
+a: It is said that a rolling stone gathers no mass.
+425: The way to heaven is paved with good deeds. ( Change the voice)
+a: It is believed that the way to heaven is paved with good deeds.
+426: Trust in God and do the right. ( Change the voice)
+a: God should be trusted in and the right should be done.
+427:  Nip the evil in the bud. ( Change the voice)
+a: It is said that evil should be nipped in the bud.
+428: A stitch in time saves nine. ( Change the voice)
+a: It is said that a stitch in time saves nine.
+429: Those living in glass house must not throw stones at others. ( Change the voice)
+a: Stones must not be thrown at others by those living in glass houses.
+430: I was shocked at the sad news. ( Change the voice)
+a: The sad news shocked me.
+431: The court proclaimed him an offender. ( Change the voice)
+a: He was proclaimed an offender by the court.
+432: A horse is more intelligent than an ass.  [ Change into positive degree]
+a: An ass is not as intelligent as a horse.
+433: A wise enemy is better than a foolish friend.  [ Change into positive degree]
+a: A foolish friend is not as good as a wise enemy.
+434: Bombay is the best sea-port in India.  [ Change into positive degree]
+a: No other seaport in India is as good as Bombay.
+435: Disraeli was the greatest statesman of England.  [ Change into positive degree]
+a: No other statesman of England was as great as Disraeli.
+436: There are few districts as fertile as Hoshiarpur.  [ Change into positive degree]
+a: Very few districts are as fertile as Hoshiarpur.
+437: Kalidasa is one of the greatest poets.  [ Change into positive degree]
+a: Very few poets are as great as Kalidasa.
+438: Very few books are as popular as Dicken's David Copperfield.  [ Change into positive degree]
+a: Dicken's David Copperfield is one of the most popular books.
+439: Gold is one of the most precious metals.  [ Change into positive degree]
+a: Very few metals are as precious as gold.
+440: It is easier to speak than to act.  [ Change into positive degree]
+a: To act is not as easy as to speak.
+441: The train runs faster than a horse-cart.  [ Change into positive degree]
+a: A horse cart does not run as fast a train.
+442: He knows you better than I.  [ Change into positive degree]
+a: I do not know you as much as he does.
+443: He knows you better than me.  [ Change into positive degree]
+a: He does not know me as much as he knows you.
+444:  Of all men he is the meanest.  [ Change into positive degree]
+a: No other man was as mean as he.
+445: Let us see who runs fastest.  [ Change into positive degree]
+a: Let us see who runs slower between us.
+446: He does his work more honestly than anybody else.  [ Change into positive degree]
+a: No one does their work as honest as he does.
+447: Few historians write as graphically as Macaulay.  [ Change into positive degree]
+a: Macaulay writes more graphically than most other historians.
+448: John bowls faster than Jack.  [ Change into positive degree]
+a: Jack does not bowl as fast as John.
+449: Ashoka was one of the noblest of Indian kings.  [ Change into positive degree]
+a: Very few Indian kings were as noble as Asoka.
+450: A live ass is better than a dead lion.  [ Change into positive degree]
+a: A dead lion is not as good as a live ass.
+451: Jim seemed more cheerful than any of his companions. [ Change into positive degree]
+a: None of his companions seemed as cheerful as Jim.
+452: As soon as the news of the fire broke out, everyone rushed to the spot. [Begin: No sooner…..]
+a: No sooner did the news break out than everyone rushed to the spot.
+453: Richard sat on a freshly painted chair. [Begin: the Chair…]
+a: The chair that Richard sat on was freshly painted. 
+454: This is the cruelest act I have ever seen. [Begin: Never…]
+a: Never have i seen a crueler act.
+a: Never have i seen a crueler act.
+a: Never have i seen an act as cruel as this.
+455: Even as a young artist, my aunt did not neglect her studies. [Use: when]
+a: When my aunt was a young artist, she did not neglect her studies.
+456: I found a ten rupee note in the book. [Change the voice] 
+a: A ten rupee note was found by me in the book.
+a: A ten rupee note was found in the book by me.
+457: It was wrong on the part of political parties to blame the neighboring country. [Use: ought]
+a: The neighbouring country should not have been blamed by the political parties.
+a: The neighbouring country ought not have been blamed by the political parties.
+458:  Being strong, Arul can lift the heavy suitcase.[ Use; so…. That]
+a: Arul is so strong that he can lift the heavy suitcase.
+459: “If you do not hurry, you will miss the bus.” My mother said. [Change into indirect speech]
+a: My mother said that if I wouldn't hurry I would miss the bus.
+460: The children failed to notice the teacher as she entered. [Change into a negative sentence]
+a: The children did not notice the teacher enter the classroom.
+a: The children did not succeed in noticing the teacher enter the classroom.
+461: Only Rachel came to the birthday party. [Begin: None…..] 
+a: None of them except Rachel came to the birthday party.
+a: None except Rachel came to the birthday party.
+462: “How do you dare to remain absent without leave?” said the teacher to the boy. (Begin with: The teacher asked the boy how ________)
+a: The teacher asked the boy how he dared to remain absent without leave.
+463: He has refused to help me. (Rewrite using ‘said’)
+a: He said, "I refuse to help you."
+464: Wordsworth was the greatest poet of Nature in English poetry. (Use: ‘greater’)
+a: No other poet of Nature in English poetry was as great as Wordsworth.
+465: Alexander the Great is considered as the greatest General of the world. (Use: ‘greater’)
+a: No other general of the world was as great as Alexander the Great.
+466: “I am sorry for insulting you,” said Lakshmi to Madhu. (Begin with: Lakshmi apologised……..)
+a: Lakshmi apologized for insulting Madhu.
+467: He said to his brother, “I go for a walk every morning.” (Change the speech)
+a: He told his brother that he went for a walk every morning.
+468: Tiger is the fastest animal in the world. (Use ‘faster’) 
+a: No animal in the world is faster than a tiger.
+a: There is no animal in the world faster than a tiger.
+a: No animal in the world is faster than the tiger.
+a: There is no animal in the world faster than a tiger.
+469: The musician said to the sponsor, “I can give a programme next week.” (Begin: The musician told……)
+a: The musician told the sponsor that he wanted to give a programme next week.
+470: Very few countries are as densely populated as India. (use ‘most’)
+a: India is the most densely populated country.
+471: Gold is not as heavy as iron. (use ‘heavier’)
+a: Iron is heavier than Gold.
+472: The accused said to the magistrate, “Let me go now.” (Change into reported speech)
+a: The accused pleaded to the magistrate to let him go then.
+a: The accused pleaded with the magistrate to let him go.
+a: The accused asked the magistrate to let him go.
+473: Kelvinator is the best fridge in the market now a days. (Use “better”)
+a: No fridge in the market now a days is as good as Kelvinator.
+474: The teacher said to the students, “Sing loudly.” (Begin: The teacher asked……)
+a: The teacher asked the students to sing loudly.
+475: I have never met so famous a person as Amitabh. (Use ‘more’)
+a: I have never met a person more famous than Amitabh.
+476: Richa said to her friend, “My sister is listening to the radio while I am writing letters. (Begin with: Richa told…..)
+a: Richa told her friend that her sister was listening to the radio while she was writing letters.
+477: Delhi is one of the most populous cities in India. (Use: ‘more’) 
+a: Few cities in India are more populous than Delhi.
+478: The magistrate said to the lawyer, “You should submit your evidence now.” (Begin with: The magistrate told…….)
+a: The magistrate told the lawyer to submit his evidence then.
+a: The magistrate told the lawyer to submit his evidence.
+479: Kalpana said to her friend, “Will you go to Radhika tomorrow?” (Change the narration) 
+a: Kalpana asked her friend whether she would go to Radhika tomorrow.
+480: The contractor said, “It has been raining since morning”. (Change into reported speech)
+a: The contractor said that it had been raining since morning.
+a: The contractor told that it had been raining since morning.
+481: Pen is mightier than the sword. (Use: ‘mighty’) 
+a: If you do not waste, you will not want.
+482:  She said, “I am never going to believe you again.” (Begin: She said that…..) 
+a: Your offer is acceptable to me.
+483: I caught a train and went to Calcutta. (Use: ‘having’)
+a: Having caught a train, I went to Calcutta.
+484: One should keep one’s promises. (Begin with: Promises…….)
+a: Having caught a train, I went to Calcutta.
+485: The Principal is calling everyone from this class. [Begin: Everyone…]
+a: Promises should be kept.
+486: How kind a person Anurag is! [Begin: What…]
+a: What a kind person Anurag is!
+487: It was wrong on the part of the management to dismiss him. [Use: ought]
+a: The management ought not have dismissed him.
+488: Tokyo is the most expensive city in the world. [Begin: No other…]
+a: No other city in the world is more expensive than Tokyo.
+489: There were only a few coins in the purse that Seema lost. [Begin: The purse…]
+a: The purse that Seema lost had only a few coins in it.
+490: “ I do not think I can finish the work by today”, said the plumber.[Change the narration]
+a: The plumber did not think he could finish the work by that day.
+491: There is nothing more beautiful than the sunset. [Begin: Is….]
+a: Is there anything as beautiful as the sunset!
+a: Is there anything more beautiful than the sunset!
+492: If you do not mend your ways, you will get into trouble. [Begin: Mend…]
+a: Mend your ways and you will not get into trouble.
+493: He is not a reckless driver. [ End: recklessly]
+a: He does not drive recklessly.
+494: She exclaimed that Kolkata is a very congested city. [Change into direct speech]
+a: She said, "Kolkata is a very congested city!"
+495: Very few foods are as healthy as milk. [ Change into superlative]
+a: Milk is one of the most healthiest foods.
+496: Andrew is the best cobbler in our town. [ Change into positive]
+a:No other cobbler in our town is as good as Andrew.
+497: Hyderabad is one of the cleanest cities in India. [ Use: clean]
+a: No other city in India is as clean as Hyderabad.
+498: A deer does not run as fast as a cheetah. [Begin: A cheetah…]
+a: A cheetah runs faster than a deer.
+499: No other poet is as popular as Shakespeare. [ Use: most]
+a: Shakespeare is the most popular poet.
+500: Mr. Ram came last of all for the meeting. [ Change into positive]
+a: No one else came later than Mr. Ram for the meeting. 
+501: Some monuments are perhaps more beautiful than the Taj. [Use: most]
+a: The Taj is perhaps not the most beautiful monument.
+502: People grew a lot of rubber in Malaysia. [Begin: A…]
+a: A lot of rubber is grown in Malaysia.
+503: He tried harder and harder but achieved less and less. [Begin: The….]
+a: The harder he tried, the lesser he achieved.
+504: “Shall I ask her to wait,” said Pamela. [Change into Reported Speech]
+a: Pamela enquired whether she should ask her to wait.
+a: Pamela asked whether she should ask her to wait.
+505: It was so late that I could not attend the class. [Use: too]
+a: It was too late for me to attend the class.
+506: Prizes were being given by the Minister when the lights went out. [Change the voice]
+a: The Minister was giving prizes when the lights went out.
+507: If you had not advised me, I would have fallen into the trap. [Begin: But….]
+a: But for your advice, I would have fallen into the trap.
+508: I am coming with you. [Provide a suitable question tag]
+a: I am coming with you, am I not?
+509: This is the biggest elephant I have ever seen. [Use: big]
+a: No other elephant I have ever seen is as big as this.
+510: As soon as Rama starts to run the race, the crowd cheers her. [Begin: No sooner …]
+a: No sooner does Rama start to run the race than the crowd cheers her.
+511: Both the answers are wrong. [Begin: Neither….]
+a: Neither of the answers are right.
+a: Neither answer is right.
+512: Neither John nor his friends ……… to blame. [Use: is/are]
+a: Neither John nor his friends are to blame.
+513: He is a principled man. [Use: principle]
+a: He is a man of principle.
+514: But for my help, she would not have succeeded. Begin: Had…]
+a: Had I not helped her, she would not have succeeded.
+515: If he apologizes, he will be pardoned. [Use: Unless…]
+a: Unless he apologizes, he will not be pardoned. 
+516: The teacher asked, “Will you confess your mistake?” [Change into indirect speech]
+a: The teacher asked whether he would confess his mistake.
+a: The teacher asked him whether he would confess his mistake.
+517: Let the child not be disturbed. [Change into active voice]
+a: Do not disturb the child.
+518: Very few Prime Ministers are as scholarly as our Prime Minister. [change into superlative]
+a: Our Prime Minister is one of the most scholarly Prime Ministers.
+519: He is so ill that he cannot not attend the meeting. [Use: too]
+a: He is too ill to attend the meeting.
+520: The task was not pleasant. It was not easy either. [Combine the two sentences]
+a: The task was neither pleasant nor easy.
+521: The Principal is calling everyone from this class. [Begin: Everyone…]
+a: Everyone from this class is being called by the Principal.
+522: How kind a person Anurag is! [Begin: What…]
+a: What a kind person Anurag is!
+523: It was wrong on the part of the management to dismiss him. [Use: ought] 
+a: The management ought not have dismissed him.
+537: To Iqbal’s surprise, the office was closed. (Use: find)
+a: To his surprise, Iqbal found the office closed.
+538: The play I saw last week was better than this one. (Use: good)
+a: This play is not as good as the one I saw last week.
+539: She confessed that she had been very foolish. Begin: (She said…………………)
+a: She said that she had been very foolish.
+a: She said, "I have been very foolish."
+540: He inquired of me if I knew the way.  Begin: He said to me, "…………
+a: He said to me, "Do you know the way?"
+541: He bade good-bye to his friends.He said, "………………………
+a: He said, "Good-bye friends!"
+542: Arun said, "The rain prevented me from coming to this place." Begin: Arun said that……………
+a: Arun said that the rain prevented him from coming to this place.
+543: The teacher said to the boys, "I shall prove now that the earth moves round the sun.  "Begin: The teacher told the boys……………….
+a: The teacher told the boys that she would prove then that the earth moves round the sun.
+544: She told me that she could easily beat me in singing. Begin: She said to me, "………….…….
+a: She said to me, "I can easily beat you in singing."
+546: Why did he deprive you of your property? Begin: Why were you ……..……..…….
+a: Why were you deprived by him of your property?
+547: No one ought ever to make so false an assumption.End: ……………ought never to be made. 
+a: So false an assumption ought never to be made.
+548: It is usually found that the trouble is caused by over-eating. Rewrite:……… …found that over-eating.
+a: It is usually found that over-eating causes the trouble.
+549: She came to my house in August last year. (Begin: The last…) 
+a: The last year, she came to my house in August.
+550: This is the wisest man I have ever seen. (Begin: Never…) 
+a: Never have I ever seen a man as wise as him.
+a: Never have I ever seen a man wiser than him.
+551: The soldiers continued marching. (Change into a negative sentence)
+a: The soldiers did not stop marching.
+552: To avoid punishment, he ran away. (End…..punishment)
+a: He ran away to avoid punishment.
+553: Intelligent though he is, he acts childishly. (Begin: He is…..)
+a: He is childish in his actions though he is is intelligent.
+554: Sophia says, “It is warmer today than yesterday.” (Change into reported speech)
+a: Sophia said that it was warmer that day than the day before.
+a: Sophia said that it was warmer that day than the previous day.
+555: Mohammed settled in the village where he was born. (Change into a simple sentence)
+a: Mohammed settled in the village of his birth.
+a: Mohammed was born and settled in the same village.
+556: She did all she could do to persuade her husband to stop drinking but to no avail. (Begin: Nothing...)
+a: Nothing she did to persuade her husband to stop drinking was of any avail.
+557: Even as a young gifted artist, Annette did not neglect her studies. (Use: when) 
+a: Even when she was a young gifted artist, Annette did not neglect her studies.
+558: Cassius does not know the reason for Caesar’s success.  (Use: why)
+a: Cassius did not know why Caesar was successful.
+559: The thieves ran away when they heard the dogs bark. (Begin: Hearing…) 
+a: Hearing the dogs bark, the thieves ran away.
+560: Only the poor deserve the relief. (Begin: None…) 
+a: None but the poor deserve the relief.
+561: If you eat more, you will become sick. (Begin: The more…) 
+a: The more you eat, the more you will become sick.
+562: The teachers did not approve the mischief of the students.( Change the voice) 
+a: The mischief of the students was not approved by the teachers.
+a: The mischief of the students was not approved of by the teachers.
+563: All hope the Summit will bring a relief to global warming.(Begin: It …) 
+a: It is hoped by all that the Summit will bring a relief to global warming.
+a: It is hoped by all that a relief to global warming will be brought by the Summit.
+a: It is hoped that the Summit will bring a relief to global warming.
+a: It is hoped that a relief to global warming will be brought by the Summit.
+564: If I were you, Graham, I would call the doctor. (Begin: He advised…) 
+a: He advised Graham to call a doctor.
+565: That he achieved the goal gladdened him. (Use: the noun form 'achieve') 
+a: That he could achieve the goal gladdened him. 
+566: Though there was heavy security the mob looted the shops. (Begin: Despite…) 
+a: Despite heavy security, the mob looted the shops.
+567: I have never seen such a savage spectacle. (Begin: Never before…….) 
+a: Never before have I seen such a savage spectacle.
+568: Gita said, "Mohan, unless you catch a taxi, you will not reach Chennai today." (Change into Reported speech)
+a: Gita told Mohan that unless he caught a taxi, he would not reach Chennai that day.
+569: Students often find homework uninteresting. . (Begin with: It is …) 
+a: It is often the case that students find homework uninteresting.
+a: It is often that students find homework uninteresting.
+570: Try again and you will solve the problem. (Begin with: Unless…)
+a: Unless you try again, you will not solve the problem.
+571: We shall hear Rafi’s voice no more. (Begin with: Alas! Rafi's voice…)
+a: Alas! Rafi's goice shall be heard no more!
+572: ‘I did not inform you of the test,’ said Kiran to Ravi. (Use: apologized)
+a: Kiran apologized to Ravi for not informing her of the test.
+573: Robert started to play cricket a year ago. (Begin with: Robert has …)
+a: Robert has been playing cricket since a year.
+574: Rama said to me, “I shall complete this work as soon as I can.” (Begin with: Rama told….)
+a: Rama told me he should complete that work as soon as he could.
+575: Meena is one of the tallest girls in the class. (Use: “taller”)
+a: No other girl in the class is as tall as Meena.
+576: My father told me that he had been working all day. (Begin with: My father said……)
+a: My father said, "I have been working all day."
+577: Shakespeare was the greatest dramatist of the world. (Use: ‘great’)
+a: No other dramatist of the world was as great as Shakespeare.
+578: Sudarshan said, “Mother, I have taken dinner”. (Begin: Sudarshan told…….)
+a: Sudarshan told his Mother that he had taken dinner.
+579: Harry Potter is the most popular character of child fiction. (Use: ‘more’)
+a: No other character of child fiction is as popular as Harry Potter.
+580: He said to me, “Time and tide waits for none.” (Begin with: He reminded……)
+a: He reminded us that time and tide waited for none.
+581: No other hill station in India is as beautiful as Darjeeling. (Use: ‘most beautiful’)
+a: Darjeeling is the most beautiful hill station in India.
+582: Robert said to his friend, “I have brought apples for you.” (Begin with: Robert told……)
+a: Robert told his friend that he had brought apples for him.
+583: The stranger said to the policeman, “Please show me the way to the medical store.” (Change into reported speech)
+a: The stranger requested the policeman to show him the way to the medical store.
+584: Put your tools away, people may fall over them. (Use: lest)
+a: Put away your tools lest people fall over them.
+585: Although she was too young, they appointed her. (Begin: In spite……………..)
+a: In spite of her being too young, they appointed her.
+586: “How beautiful the sunset looks tonight!” said Neelam. (Begin: Neelam exclaimed …………..)
+a: Neelam exclaimed how beautiful the sunset looked that night.
+587: She could not afford to buy the computer as she was poor. (Begin with: Being…) 
+a: Being poor, she could not afford to buy the computer.
+588: We have difficulty in saving money. (Begin: It ……..)
+a: It is difficult for us to save money.
+589: Hearing their father’s footsteps, the boys ran away. (Begin: The boys…)
+a: The boys ran away when they heard their father’s footsteps. 
+590: Only the brave deserve the reward. (Begin: None……)
+a: None but the brave deserve the reward.
+591: He owed his success to his teachers. (Begin: It….)
+a: It was to his teachers that he owed his success.
+592: It was so late that I could not attend the meeting. (Use: too)
+a: It was too late for me to attend the meeting.
+593: The librarian said, “How can you forget to return your books?” [Change the narration]
+a: The librarian asked me how I could forget to return my books.
+594: Start now or you will not arrive on time. (Begin: Unless...)
+a: Unless you start now, you will not arrive on time.
+595: It can be very interesting to listen to the radio. (Begin: Listening…)
+a: Listening to the radio can be very interesting.
+596: The thorn was removed. It was an extremely painful process. (Combine into a sentence)
+a: The removal of the thorn was an extremely painful process.
+597: As soon as the goal was scored, the team celebrated it. (Begin: No sooner…)
+a: No sooner had the goal been scored than the team celebrated.
+598: Rohan was taller than many other boys in the Basketball team. (Begin: Very few…..)
+a: Very few boys in the Basketball team are as tall as Rohan.
+599: The principal accepted the teachers’ proposal ultimately. (Use: ‘reject’)
+a: The principal did not reject the teacher's proposal ultimately.
+a: Ultimately, the principal did not reject the teacher's proposal.
+600: Raji’s father is too truthful to take a bribe. (Remove: ‘too’)
+a: Raji's father is so truthful that he cannot take a bribe.
+601: As soon as I started to write, there was a power failure. (Use: ‘no sooner’)
+a: No sooner did I start to write than there was a power failure.
+602: Jim was admitted to this hostel two years ago. (Use: ‘admission’)
+a: Jim took admission to this hostel two years ago.
+a: Jim got admission to this hostel two years ago.
+a: Jim gained admission to this hostel two years ago.
+603: The news is too good to be true. (Remove: ‘too’)
+a: The news is so good that it cannot be true.
+604: As soon as the violence broke out, the spectators ran to the gate. (Use: no sooner’)
+a: No sooner did the violence break out than the spectators ran to the gate.
+605: The Chief Minister agreed with his minister’s the choice of action. (Use: ‘oppose’)
+a: The Chief Minister did not oppose the minister's the choice of action.
+606: Cassius received Antony coldly after Caesar’s assassination. (Use: ‘cold’)
+a: Cassius gave Antony a cold reception after Caesar's assassination.
+607: Sabetha is so gifted that she doesn’t need any guidance. (Use: ‘too’)
+a: Sabetha is too gifted to need any guidance. 
+608: As soon as the mob started hollering the slogans, the Minister fled the scene. (Use: ‘no sooner’)
+a: No sooner did the mob start hollering the slogans than the Minister fled the scene.
+609: Harry succeeded in the contest in the last try.(Use: ‘fail’)
+a: Harry did not fail the contest in the last try.
+610: The elephant does not intend to harm the bystanders.(Use: ‘intention’)
+a: The elephant had no intention of harming the bystanders.
+611: He is fortunate to have gained admission to a reputed university.(Begin with: Fortunately…..)
+a: Fortunately for him, he has gained admission to a reputed university.
+612: It was a rather frosty dawn. The mountaineers left their camp.(Rewrite as one sentence without using ‘and’)
+a: It was a rather frosty dawn when the mountaineers left their camp.
+613: As soon as the train reaches the station, the commuters jostle for their seats.(Begin with: No sooner……)
+a: No sooner did the train reach the station than the commuters jostled for their seats.
+614: Margaret was too slow to catch the pickpocket.(Rewrite using ‘so__that’)
+a: Margaret was so slow that she could not catch the pickpocket.
+615: The project will be finished by the team within a week.(Begin with: the team will…)
+a: The team will finish the project within a week.
+616: It is sad that the agitators turned vandals.(Begin with: How…..)
+a: How sad is it that the the agitators turned vandals.
+617: Sonia arrived after her brother had died.(Begin with: It was after….)
+a: It was after her brother's death that Sonia arrived.
+618: The coach always insists on a particular exercise every morning.(Rewrite using ‘fail’)
+a: The coach never fails to insist on a particular exercise every morning.
+619: Waste not, want not.(Begin with: ‘If’)
+a: If you do not want, do not waste.
+620: The company accepts your offer.(Use: ‘acceptable’)
+a: The company finds your offer acceptable.
+621: It is standard for an adult to eat three times a day.(Use: ‘normally’)
+a: Normally, an adult eats three times a day.
+622: The kids are very weak. They cannot jump the wall.(Combine the sentences)
+a: The kids are very weak and cannot jump the wall.
+a: The kids are too weak to jump the wall.
+623: The mortality rates are decreasing. Many are health conscious.(Combine the sentences)
+a: The mortality rates are decreasing because many are health conscious.
+624: Wash your hand. You will not catch an infection.(Combine the sentences)
+a: Wash your hand so that you will not catch an infection.
+625: The profession of Teaching is demanding. It has its own delights.(Combine the sentences)
+a: The profession of teaching is demanding but it has its own delights.
+626: “You would better see the doctor, Judy,” Mark said. (Begin: Mark suggested….)
+a: Mark suggested Judy to better see the doctor.
+627: Usha plays tennis better than Kiran. (Begin: Kiran ……)
+a: Kiran does not play tennis as good as Usha.
+628: He is said to have been in the Indian Army. (Begin: People …)
+a: People say that he had been in the Indian Army.
+629:  I started work in the office a year ago. (Begin: I have been ……)
+a: I have been working in the office since a year.
+630: You remembered to sign the contract. ( use a question tag)
+a: You remembered to sign the contract, didn't you?
+631: As soon as he heard the news, he rushed to the hospital. (Change into a negative sentence)
+a: He did not wait to rush to the hospital as soon as he heard the news.
+632: The farmer said, “Let me have a good harvest.” (Change the narration)
+a: The farmer hoped for a good harvest.
+a: The farmer asked for a good harvest.
+633: Rita didn’t apply for the job and she regrets it now. (Begin: Rita wishes ….)
+a: Rita wishes she had applied for the job and regrets it now.
+634: My friend is a good cricket player. He is also a good long distance runner.  [Use: Besides….]
+a: Besides being a good cricket player, my friend is also a good long distance runner.
+635: Who can forget the achievements of the freedom fighters? [Change into an assertive sentence.]
+a: Can anyone forget the achievements of the freedom fighters?
+636: To the best of my knowledge, he is vegetarian. (Begin: As far as ….)
+a: As far as I know, he is a vegetarian. 
+637: The train journey from Kolkata to Asansol takes three hours. (Begin: It is a ….)
+a: It is a three-hour train journey from Kolkata to Asansol. 
+638: The peon cannot leave unless I permit him. (Use: without)
+a: The peon cannot leave without my permission. 
+639: 'Kindly leave the bag here, Madam', said the porter. (Change the narration)
+a: The porter requested the lady to leave the bag there. 
+640: The tea is so hot that I cannot drink it. ( Remove: so….that)
+a: The tea is too hot for me to drink. 
+641: He was a poet as well as a statesman. (Combine to make a negative sentence)
+a: Not only was he poet but also a statesman.  
+642: As soon as the awards were announced, the winners walked to the podium. (Begin: No sooner…)
+a: No sooner were the awards announced than the winners walked to the podium. 
+643: No one came as late as Diana to the party. . (Change to superlative)
+a: Diana was the last to come to the party. 
+644: The thought of being alone terrified her. (change the voice)
+a: She was terrified by the thought of being alone. 
+645: Put your books aside, people may fall over them. (Use: lest)
+a: Put your books aside away, lest people should fall over them.
+646: The passing milkman informed the authorities of the breach in the watergates. (Begin: The authorities……)
+a: The authorities were informed by the passing milkman of the breach in the watergates.
+647: You have to pay the loan installments on time or your car will be taken back. (Begin: Unless….)
+a:  Unless you pay the loan installments on time, your car will be taken back.
+648: Mary does not play Tennis. Her brother Tony does not play tennis. (Begin: Neither…..)
+a: Neither Mary nor her brother Tony play tennis.
+649: The airport at the Hyderabad provides the passengers with the most excellent facility. (Begin: No other…..)
+a: No other airport provides passengers with a facility as excellent as the airport at the Hyderabad.
+650: As soon as the cargo arrives, it is taken into the warehouse. (Begin: No sooner…..)
+a: No sooner did the cargo arrive than it was taken into the warehouse. 
+651: Sheila told Shammed, “I am not sure that you will get the ticket for the film tomorrow. Can I ask my father to book a ticket for you today?” (Change into Indirect speech)
+a: Sheila told Shammed that she was not sure that he would get the ticket for the film the next day and offered to ask her father to book a ticket for him the same day. 
+652: Keep your mobile switched off so that it will not disturb the patients (Use: lest)
+a:  Keep your mobile switche off lest it disturb the patients.
+653: Although Brown stood first in the race, she was not happy with her performance. (Begin: Despite…..)
+a: Despite standing first in the race, Brown was not happy with her performance. 
+654: Remo was rushing to the office. He met his old friend Reena. (Combine the two sentences without using and or but)
+a: Remo was rushing to the office when he met his old friend Reena.
+655: You should have brought your brother for the party. (Provide an appropriate question tag)
+a: You should have brought your brother for the party, shouldn't you?
+656: He has a different opinion from others on this issue. (Use: ‘differently’)
+a: He thinks differently from others on this issue.
+657: Her attitude shows that she is a bold girl. (Use: ‘timid’)
+a: Her attitude shows that she is not a timid girl.
+658: Anila was so frightened that she could not study in her room. (Use: ‘too’)
+a: Anila was too frightened to study in her room.
+659: The puzzle was too difficult for Meenakshi to solve. (Use: ‘so’)
+a: The puzzle was so difficult that Meenakshi could not solve it.
+660: Sahil showed generosity even to his  enemies. (Use: ‘generous’)
+a: Sahil was generous even to his enemies.
+661: I have never seen a film as bad as this. (Being: This is...)
+a: This is the worst film I have ever seen.
+662: Every one of them was an experienced mountaineer. (Begin: There was no...)
+a: There was no one among them who was not an experienced mountaineer.
+663: I have never seen a film as bad as this. (Begin: This is....)
+a: This is the worst film I have ever seen.
+664: Arun gave Ramesh some excellent advice (Begin: Ramesh was...)
+a: Ramesh was given some excellent advice by Arun.
+665: As soon as Sania sat down to study, the lights went off. (Begin: No sooner...)
+a: No sooner had Sania sat down to study than the lights went off.
+666: Has Alia written to you? (Begin: Have you....)
+a: Have you ever been written to by Alia?
+667: As soon as the function got over. The crowd dispersed. (Begin: Hardly had...)
+a: Hardly had the function got over than the crowd dispersed.
+668: The monsoon is the best season in our country. (Rewrite using 'good')
+a: No other season in our country is as good as the monsoon.
+669: Harish was so tired that he could not keep his eyes open. (Begin: Harish was too...)
+a: Harish was too tired to keep his eyes open.
+670: Father said to Sunil, "I can help you with your homework." (Begin: Father told Sunil....)
+a: Father told Sunil that he could help him with his homework.
+671: Naresh goes to school which has over a thousand students. (Begin: There...)
+a: There are over a thousand students in the school Naresh goes to.
+a; There are over a thousand students at the school Naresh goes to.
+672: As soon as we lit the candle, the power supply was restored. (Begin: No sooner....)
+a: No sooner we lit the candle than the power supply was restored.
+673: The bee is more industrious than all other creatures. (Use 'most industrious')
+a: The bee is the most industrious of all creatures.
+a: The bee is the most industrious creature.
+674: The old woman was too slow to catch the bus. (Begin: The old woman was so....)
+a: The old woman was so slow that she could not catch the bus.
+675: "I'll do it tomorrow" he promised. (Rewrite in indirect speech)
+a: He promised to do it the next day.
+a: He promised that he would do it the next day.
+676: Though Reema got an expensive gift she was not happy. (Begin: In spite....)
+a: Inspite of getting an expensive gift, Reema was not happy.
+677: I prefer reading a book to watching a movie. (Begin: I would rather....)
+a: I would rather read a book than watch a movie.
+678: I have never seen Mr. Roy lose his temper. (Begin: Never...)
+a: Never have I seen Mr. Roy lose his temper.
+679: She found your keys in the garbage. (Begin: The keys....)
+a: The keys were found in the garbage.
+680: These windows need cleaning again. (Begin: These windows will....)
+a: These windows will have to be cleaned again. 
+681: My mother said I could go with you only if I returned home by five o'clock. (Use: as long as)
+a: My mother said I could go with you, as long as I returned home by five o'clock.
+682: It doesn't matter which chemical you put into the mixture first, the results will be the same. (Use: difference)
+a: It doesn't make any difference which chemical you put into the mixture first, the results will be the same.
+a: It doesn't make a difference which chemical you put into the mixture first, the results will be the same.
+683: Who does this pen belong to? (Begin: Do you know....)
+a: Do you know to whom does this pen belong?
+a: Do you know to whom this pen belongs?
+684: Heavy rain has caused the cancellation of the outdoor garden party. (Begin: Due....)
+a: Due to heavy rain, the outdoor garden party has been cancelled.
+685: I've never seen so many people in this building before. (Begin: This is.....)
+a: This is the first time I am seeing so many people in this building.
+686: If we light the fire, the rescuers will see us. (Begin: We will.....)
+a: We will be seen by the rescuers if we light the fire.
+687: Only a few books were remaining on the shelf when we left. (Begin: Most...)
+a: Most of the books on the shelf were not there when we left.
+688: My mother left a month ago. (Begin: It has....)
+a: It has been a month since my mother left.
+689: Anil was wrong to lose his temper. (Begin: Anil ought...)
+a: Anil ought not to lose his temper.
+a: Anil ought not have lost his temper.
+690: As soon as the Chief Guest has seated himself the play began. (Begin: No sooner....)
+a: No sooner had the Chief Guest seated himself then the play began.
+691: Rajiv said to Arjun, "Is this the book you were reading yesterday ?" (Begin: Rajiv asked Arjun if.....)
+a: Rajiv asked Arjun if that was the book he had been reading the previous day.
+692: Only a foolish person would be taken in by this trick. (Begin: None....)
+a: None but a foolish person would be taken in by this trick.
+693: Everyone has heard of Gandhiji. (Begin: Who....)
+a: Who has not heard of Gandhiji?
+694: He will issue the cheque only if he hears from the head office. (Begin: On....)
+a: On hearing from the head office only, he will issue the cheque.
+695: Father will send you a message if his flight is cancelled. (Begin: Should...)
+a: Should father's flight be cancelled, he will send you a message.
+696: This horse is better trained than yours. (Begin: Your horse......)
+a: Your horse is not as well trained as this one.
+a: Your horse is not trained as good as this one.
+a: Your horse is not trained as well as this one.
+697: The children will sit out in the garden, if the weather is cool. (Begin: The children won't..)
+a: The children won't sit out in the garden unless the weather is cool.
+698: The thief ran so fast that the police could not catch him. (Rewrite using: too)
+a: The thief ran too fast for the police to catch.
+a: The thief ran too fast for the police to catch him.
+699: Her attitude often annoys me. (Rewrite using: annoyance...)
+a: Her attitude is often cause of annoyance to me.
+a: Her attitude is often a cause of annoyance to me.
+a: Her attitude often causes annoyance to me.
+a: Her attitude often causes me annoyance.
+700: The child disappeared as soon as the bus stopped. (Begin: Hardly....)
+a: Hardly had the bus stopped, when the children disappeared.
+701: There is no success without effort. (Begin: Whenever....)
+a: Whenever you make an effort, you get success.
+702: "Please teach me to cycle" she asked her brother. (Rewrite in indirect form)
+a: She requested her brother to teach her to cycle.
+703: The peasants regarded him as a thief and called him a villain. (End: ...the peasants)
+a: He was regarded as a thief and called a villain by the peasants.
+704: Unless Ria takes care of her health, she will not be able to look after her family. (Begin: Ria must....)
+a: Ria must take care of her health in order to be able to look after her family.
+705: His arrogance was the cause of losing the election. (Rewrite the sentence using "arrogant")
+a: As he was arrogant, he lost the election.
+706: If you are not a member you cannot borrow books. (Begin: Only.....)
+a: Only if you are a member can you borrow books.
+707: It is a pity our vacation is not longer. (Begin: I wish....)
+a: I wish our vacation was longer.
+708: Raju did not complete the exercise on time. (Rewrite by adding question tag)
+a: Raju did not complete the exercise on time, did he?
+709: Rohan was so terrified of being left alone in the house that he started screaming. (Begin: So...)
+a: So terrified was Rohan of being left alone in the house that he started screaming.
+710: The teacher asked, "How many of you think the answer is correct ?" (Rewrite the sentence using indirect speech)
+a: The teacher asked us how many of us thought the answer was correct.
+711: Sunil is the fastest runner in the school. (End: .....as Sunil)
+a: No runner in the school was as fast as Sunil.
+712: Study hard now or you will regret it. (Begin: Unless....)
+a: Unless you study hard now, you will regret. 
+713: The boy asked, "Why are you lying on the road in this manner ?" (Begin: The boy asked why he....)
+a: The boy asked me why he was lying on the road in that manner.
+714: Megha is too tall to crawl under the table. (Begin: Megha is so....)
+a: Megha is so tall that she cannot crawl under the table.
+715: He arrived in school on time even though he stopped for a bite on the way. (Use 'inspite of' instead of even though)
+a: Inspite of being stopped for a bite on the way, he arrived in school on time.
+716: She opened the kitchen door and a cockroach ran out. (End with 'cockroach')
+a: As she opened the kitchen door, she saw a running cockroach.
+717: Arjun was a better speaker than his brother. (Begin: His brother....)
+a: His brother is not as good a speaker as his brother.
+718: Asha missed her examination because of her illness (Begin: Her illness...)
+a: Her illness was the reason for Asha missing her examination.
+719: As soon as the curtain came down the applause rang out. (Begin: No sooner...)
+a: No sooner the curtain came down than the applause rang out.
+720: "Have you walked alone, this long distance today ?" he asked Sumita. (Begin: He asked Sumita if....)
+a: He asked Sunita if she had walked alone, that long distance that day.
+721: The detective interrogated the suspect closely for over three hours. (Begin: The suspect.....)
+a: The suspect was interrogated closely for over three hours by the detective.
+722: I suddenly realized that the room was too small for the three of us to share. (Begin: I suddenly realized that the room was so....)
+a: I suddenly realized that the room was so small that three of us could not share it.
+723: Inspite of all her efforts, Susan did not succeed. (Begin: Despite....)
+a: Despite her efforts, Susan did not succeed.
+724: As soon as the bell rang, the children rushed out of class. (Begin: No sooner....)
+a: No sooner did the bell ring than the children rushed out of the class.
+725: Sachin stood first in class and he also excelled at debate. (Begin: Not only....)
+a: Not only did Sachin stand first in class, but he also excelled at debate.
+726: She was the only person capable of being House Captain. (Use: capability)
+a: She was the only person who had capability of being house captain.
+727: Rohan was the tallest boy in the basketball team. (Rewrite using: taller)
+a: No other boy in the basketball team was taller than Rohan.
+728: As soon as the Chief Guest arrived, the band started playing. (Begin: No sooner....)
+a: No sooner did the Chief Guest arrive than the band started playing.
+a: No sooner had the Chief Guest arrived than the band started playing.
+729: He went to the library and the bank. (Begin: Not only....)
+a: Not only did he go to the library but also to the bank.
+730: Though he is very poor, he helps others in need. (Begin: Inspite....)
+a: Inspite of his being very poor he helps others in need.
+a: Inspite of being very poor he helps others in need.
+731: He does not intend to leave the company. (Use: intention)
+a: He does not carry the intention of leaving the company.
+a: His intention is not to leave the company.
+732: "Do you want some more ice-cream or a slice of cake ?" asked my aunt. (Begin: My aunt asked....)
+a: My aunt asked me if I wanted some more ice-cream or a slice of cake.
+a: My aunt asked me whether I wanted some more ice-cream or a slice of cake.
+733: They are painting to mural on the front wall. (Begin: A mural....)
+a: A mural is being painted on the front wall by them.
+734: Tansen was the best singer in Akbar's court. (Use: Better...)
+a: Tansen was better than any other singer in Akbar's court.
+a: Tansen was better than many other singers in Akbar's court.
+735: You didn't forget to buy a loaf of bread, did you?
+a: Did you forget to buy a loaf of bread?
+736: Jasdeep has probably forgotten his mother's birthday. (Begin: In....)
+a: In all probability Jagdeep has forgotten his mother's birthday.
+737: Mr.Sharma advised the children not to go out in the cold. (End: "........", said Mr.Sharma)
+a: "Children do not go out in the cold" , said Mr.Sharma.
+738: For more information please contact the secretary of the club. (Begin: Should....)
+a: Should you need more information, contact the Secretary of the club.
+739: He could not take part in the singing competition as he had a sore threat. (Use: preventing)
+a: He was prevented from taking part in the singing competition due to his sore throat.
+740: Ritika returned to school a week ago. (Begin: It has been....)
+a: It has been a week since Ritika returned to school.
+741: She was beautiful and humble. (Begin: Not only....)
+a: Not only was she beautiful but also humble.
+742: Both the players are not adequately prepared for the tournament. (Begin: Neither....)
+a: Neither of the players are adequately prepapre for the tournament.
+743: A fragrant flower is the loveliest creation of nature. (Begin: No other....)
+a: No other creation of nature is as lovely as a fragrant flower.
+744: Amazing discoveries have been made by explorer. (Begin: Explorers...)
+a: Explorers have made amazing discoveries.
+745: The team consisted of six batsmen, four bowlers and a wicket keeper. (Use: 'comprised')
+a: The team comprised of six batsmen, four bowlers and a wicket keeper.
+746: Unfortunately, he failed in the first attempt. (Use: 'succeed' instead of failed)
+a: Unfortunately he could not succeed in the first attempt.
+747: This should be of the greatest value to mankind. (Begin: Nothing....)
+a: Nothing should be of greater value to mankind than this.
+748: The boy was ill. He went to school. (Combine both the sentences using 'though')
+a: Though the boy was ill, he went to school.
+749: Do the believe in the existence of God? (End: 'exists')
+a: Do they believe that God exists.
+750: Who replaced the player after he was injured? (Use: 'substitute' instead of 'replaced')
+a: Who substituted the player after he was injured?
+751: It has not only lengthened life but has deepened its quality. (Begin: Besides.....)
+a: Besides deepening its quality but it has also lengthened life.
+752: She said, "I am never going to believe you again." (Begin: She said that....)
+a: She said that she was never going to believe her again.
+753: The price of milk has risen recently. (End: 'milk')
+a: Recently there is a rise in price of milk.
+754: Why did Radha skip the match? (Change the voice)
+a: Why was the match skipped by Radha?
+755: "Did you understand the passage clearly taught yesterday?" the teacher asks. (Begin: The teacher asked....)
+a: The teacher asked whether I had understood the passage the previous day.
+756: He snatched the badminton from him and scored a point. (Begin: Not only....)
+a: Not only did he snatch the badminton from him but also scored a point.
+757: The grounds were too damaged to conduct the match. (Use: so ...that)
+a: The grounds were so damaged that it was not possible conduct the match.
+758: Though skilled in commerce, he was not taken to the examination (Begin: Despite....)
+a: Despite being skilled in accounting, he was not admitted to the examination.
+759: As soon as the match started, the crowd turned depressed. (Begin: No sooner....)
+a: No sooner did the match start than the crowd turned depressed.
+760: ‘The Ruskin Bond’ is one of the best films released this year. (Use: good)
+a: No other film released this year is as good as 'The Ruskin Bond'
+761: He saw the bat rushing towards him and leaped aside. (Begin: Having......)
+a: Having seen the bat rushing towards him, he leaped aside.
+762: We reached the house but could not find what we were looking for (End: ...house)
+a: We could not find what we were looking for although we reached the house.
+763: "Are you sure this man in the green shirt is our new teacher?" Jack asked Ben. (Begin: Jack....)
+a: Jack asked Ben whether he was sure that the man in the green shirt was their new teacher.
+764: You can stay in this room until someone wants to use it. (Begin: As long as....)
+a: As long as someone does not want to use this room, you can stay in  it.
+765: Both the answers are wrong. (Begin: Neither...)
+a: Neither of the answers are right.
+766: He is too young to travel alone. (Remove: too)
+a: He is so young that he cannot travel alone.
+767: You need patience to learn how to speak a new language. (Begins: In order...)
+a: In order to speak a new language, you need patience.
+768: She will never learn to be polite. (Change into interrogative)
+a: Will she ever learn to be polite?
+769: He said, "I was writing a letter." (Write in reported speech)
+a: He said that he was writing a letter.
+770: I have never seen such a mess. (Begin: never)
+a: Never have I seen such a mess.
+771: He had hardly sat down to rest when someone knocked on the door. (Begin: hardly)
+a: Hardly had I sat down to rest when someone knocked on the door.
+772: It is not compulsory that you should attempt all questions. (Rewrite using need not)
+a: You need not attempt all questions.
+773: You are obliged to obey your parents. (Rewrite using 'ought to')
+a: You ought to obey your parents.
+774: It is necessary for him to attend the meeting. (Rewrite using must.)
+a: He must attend the meeting.
+775: We are interested in your offer, and we would be glad to have prices as soon as possible. (Insert indeed)
+a: We are indeed interested in your offer, and we would be glad to have prices as soon as possible.
+776: Gandhi is one of the greatest men of the world. (Insert indeed)
+a: Gandhi is indeed one of the greatest men of the world.
+777: As soon as she heard the news she fainted. (Rewrite using ‘No sooner ...than’)
+a: No sooner did she hear the news than she fainted.
+778: I had hardly closed my eyes when the telephone rang. (Begin with hardly.)
+a: Hardly had I closed my eyes when the telephone rang.
+780: The tea was so hot that I could not drink it. (Change into a simple sentence)
+a: The tea was too hot for me to drink. 
+781: He is too arrogant to listen to advice. (Change into a complex sentence)
+a: He is so arrogant that he will not listen to advice.
+782: He worked hard that he might pass the examination. (Change into a simple sentence)
+a: He worked hard to pass the examination.
+783: He is too stupid to handle such a difficult situation. (Remove too)
+a: He is so stupid that he cannot handle such a situation.
+784: John is the tallest boy in the class. (Use the comparative form of the adjective)
+a: John is taller than any other boy in the class.
+785: I could not do it even if I tried. (Change into a simple sentence)
+a: Despite trying, I could not do it.
+786: No sooner did I hear the gunshot than I rushed to the spot. (Rewrite using as soon as.)
+a: As soon as I heard the gunshot I rushed to the spot.
+787: Hardly had I solved one problem when another cropped up. (Rewrite using no sooner ...than)
+a: No sooner had I solved one problem than another cropped up.
+788: Only trained graduates need to apply. (Use none instead of only)
+a: None but trained graduates need to apply.
+789: Work hard or you will fail. (Change into a complex sentence)
+a: If you do not work hard, you will fail.
+790: People speak English all over the world. (Begin the sentence with ‘English’.)
+a: English is spoken all over the world. 
+791: The police have arrested the thief. (Begin with ‘The thief’.)
+a: The thief has been arrested by the police.
+792: Both men and women are watching the show. (Begin with ‘The show’.)
+a: The show is being watched by both men and women.
+793: People play football all over the world. (Begin with ‘Football’.)
+a: Football is played all over the world.
+794: The boys were singing the national anthem. (Begin with ‘The national anthem’)
+a: The national anthem was being sung by the boys.
+795: Our team will certainly win the match. (Begin with ‘The match’.)
+a: The match will certainly be won by our team.
+796: They haven’t announced the news yet. (Begin with ‘The news’.)
+a: The news hasn’t been announced yet.
+797: Students are to write the answers on both sides of the paper. (Begin with ‘The answers’.)
+a: The answers are to be written on both sides of the paper.
+798: His supporters have always admired him. (Begin with ‘He’)
+a: He has always been admired by his supporters.
+799: The contractor is fixing the roof. (Begin with ‘The roof’.)
+a: The roof is being fixed by the contractor.
+800: I was not sure that it was you.  (Use doubtful instead of sure)
+a: I was doubtful that it was you.
+801: She complained that the room was too hot. (Begin : She complained of ................. )
+a: She complained of the room being too hot.
+802: He couldn't seem to get out of the habit. (Begin : He seemed ....................)
+a: He seemed to be unable to get out of the habit.
+803: What long hair you have? (End with : ............... is)
+a: How long your hair is!
+804: Please read this and see if there are any mistakes. (Use go in place of read.)
+a: Please go through this and see if there are any mistakes.
+805: The station bus is coming.  (end with : ............ bus.)
+a: Here comes the station bus.
+806: I don't know how you tolerated him for so long. (Use put instead of tolerated.)
+a: I don't know how you put up with him for so long.
+808: He is fortunate to have won the prize. (Begin : Fortunately ......... )
+a: Fortunately, he has won the prize.
+809: It was quite dark. They came back home. (Rewrite as one sentence without using 'and)
+a: It was quite dark and they came back home.
+810: As soon as the newspaper reaches the stands it is sold out. (Begin : No sooner ...............)
+a: No sooner had the newspaper reached the stands, than it was sold out.
+811: Mohan was too slow to catch the thief. (Rewrite using "so ...... ... that")
+a: Mohan was so slow that he could not catch the thief.
+812: The assignment will be completed by me within a month. (Begin. : I will .............)
+a: I will complete the assignment within a month.
+813: Cleopatra is the most famous Egyptian queen. (Begin : No other ................)
+a: No other Egyptian queen is as famous as Cleopatra.
+814: It is sad that you are leaving the town . (Begin : How ................!)
+a: How sad is it that you are leaving the town.
+815: The son arrived after his mother had died. (Begin : It was after ...............)
+a: It was after his mother died that the son arrived.
+816: My father always goes for a walk every morning. (Rewrite using 'fail')
+a: My father never fails to go for a walk every morning.
+817: The judge punished the guilty.  (Begin : The guilty ............ )
+a: The guilty was punished by the judge.
+818: Suresh suddenly thought of a splendid idea. (End: ......... to Suresh.)
+a: A splendid idea suddenly occurred to Suresh.
+819: Raunak missed the bus because he was late. (Use: .......... . catch.)
+a: Raunak 
+820: Sheena returned one week ago. (Begin: It has .............)
+a: It has been one week since Sheena returned.
+821: "I am sorry for insulting you," said Lakshmi to Madhu. (Begin: Lakshmi apologized ......... )
+a: Lakshmi apologized for insulting Madhu.
+822: He could not complete the race as he had injured his foot. (Use: prevented.)
+a: He was prevented from completing the race by his injured foot.
+823: His unexpected victory surprised everybody in the school. (Begin: His unexpected victory took .................)
+a: His unexpected victory took everybody in the school by surprise.
+824: Nobody in our city can run as fast as Usha. (Begin: Usha .................)
+a: Usha is the fastest runner in our city.
+825: Joe requested his friend to wait there till he returned.  (End: .................. till I return.")
+a: Joe said to his friend, "Wait here till I return."
+826: He was the wisest man present. (Use 'wiser')
+a: No other man was wiser than him.
+827: After John had finished his supper, his mother sent him to bed. (Begin : Having ...........)
+a: Having finished his supper, John was sent by his mother to bed.
+828: She told me that her father was ill. (Use 'of' instead of 'that'.)
+a: She told me of her father's illness.
+a: She told me of her father being ill.
+829: The package was too heavy to carry.  (End with : carried)
+a: The package was too heavy to be carried.
+830: Do not be deceived by his polite manner. (Use taken in, in place of deceived).
+a: Do not be taken in by his polite manner.
+831: We did not need to hurry. (Begin : It .............)
+a: It is not necessary for us to hurry.
+832: Smoking is forbidden here.  (Begin : You ...........)
+a: You are forbidden to smoke here. 
+833: Your essay needs correcting. (Use corrected instead of correcting.)
+a: Your essay needs to be corrected.
+834: He insists on our apologising. (End with : ......... apologise.)
+a: He insists that we must apologise.
+a: He insists that we apologize.
+835: John has probably forgotten the date of the examination. (Begin: In ..............................)
+a: In all probability, John has forgotten the date of the examination.
+836: Very few countries are as large as India. (Use: 'larger')
+a: India is one of the most largest countries.
+837: The sergeant asked: 'Did you have any training before'? (Rewrite using: 'whether' or 'if")
+a: The sergeant asked whether I had any training before.
+a: The sergeant asked if I had any training before.
+838: If you don't come, I will not go out. (Begin: Only ..........)
+a: Only if you come will I go out.
+839: He sold his house to a wealthy diamond magnate. (Rewrite using 'bought' instead of 'sold'.)
+a: His house was bought by a wealthy diamond magnate.
+840: The thieves stole everything from the merchant and left him for dead. (Begin: Having .....................................)
+a: Having stolen everything from the merchant, the thieves left him for dead.
+841: Prerna consulted her parents before accepting the job offer. (Begin: Prerna did not ............................)
+a: Prerna did not forget to consult her parents before accepting the job offer.
+842: The driver lost his job because of rash driving. (Begin: If the driver .......................)
+a: If the driver had not driven rashly, he would not have lost his job.
+843: Very few doctors in the hospital are as dedicated as he is. (Begin: He is .....................................)  
+a: He is one of the most dedicated doctors in the hospital. 
+844: The Principal dealt with the miscreants firmly. (Begin: The Principal was ................)
+a: The Principal was firm in dealing with the miscreants.
+845: He really likes correcting her English.    ( use pleasure)
+a: He takes pleasure in correcting her English. 
+846: It’s not necessary to take a lot of luggage when going on holiday. (use Much)
+a: You don't have to take much luggage when going on holiday.
+a: You needn't take much luggage when going on holiday.
+a: You don't need much luggage when going on holiday.
+847: Perhaps he hasn’t received the doctor’s results yet.    ( use may)
+a: He may not have received the doctor's results yet.
+848: All I want you to do is to look after my dog.  ( use care) 
+a: All I want you to do is to take care of my dog.
+849: She was not certain about the trip ( use decide)
+a: She could not decide about the trip.
+850: He locked the gate so that the dog wouldn’t escape.    ( use prevent)
+a: He locked the gate to prevent the dog from escaping.
+a: He locked the gate to prevent the dog escaping.
+851: They did not like to pay extra taxes.  ( use objected)
+a: They objected to paying extra taxes.
+852: The day was so nice that we went on a picnic.  ( use such)
+a: It was such a nice day that we went on a picnic.
+853: The only person I didn’t see was Jane. ( use except)
+a: I saw everyone except Jane.
+854: She decided to visit her friend and tell her the news. ( use drop)
+a: She decided to drop in on her friend and tell her the news.
+855: It wasn’t necessary to meet me at the airport yesterday.   ( use needn’t )
+a: You needn't have met me at the airport yesterday.
+856: It was unkind of you to talk to her like that. ( use not)
+a: It was not kind of you to talk to her like that.
+857: I saw the film although I strongly dislike thrillers.   ( use spite)
+a: I saw the film in spite of my strong dislike of thrillers.
+858: It’s not possible to play tennis because of the rain.  ( use makes)
+a: The rain makes it impossible to play tennis.
+859: I’ve never tasted such good food before.   ( use ever)
+a: It is the best food I've ever tasted.
+860: Do your parents allow you to watch TV late at night?    ( use let)
+a: Do your parents let you watch TV late at night?
+861: ”Did you write a note for Anna?” I asked my mother. ( use she)
+a: I asked my mother whether she had written a note for Anna.
+a: I asked my mother if she had written a note for Anna.
+862: He gave me the money first, and then he left.   ( use after )
+a: He left after he gave me the money.
+a: He left after he had given me the money.
+863: I don’t find it difficult to get up early any more. ( use used)
+a: I am used to getting up early now.
+864: We have to reduce our expenses. ( use cut )
+a: We have to cut down on our expenses.
+865: “Can you please explain this to me?” she asked the teacher. ( use if)
+a: She asked the teacher if she could explain that to her.
+866: Perhaps he’s working late.  ( use may)
+a: He may be working late.
+867: Nobody ever told me about it.   ( use never)
+a: I was never told about it.
+a: I was never told about it by anybody.
+868: “I’ll pick him up from the airport,” she said.  ( use offered)
+a: She offered to pick him up from the airport.
+869: I was so shocked that I couldn’t react. ( use wasn’t)
+a: I wasn't calm enough to react.
+870: People say Greek is a difficult language to learn.  ( use said)
+a: Greek is said to be a difficult language to learn.
+a: It is said that Greek is a difficult language to learn.
+871: The police have investigated the crime. ( use by)
+a: He may be working late.
+872: Without your help, I would never have managed.  ( use you )
+a: She asked the teacher if she could explain that to her.
+873: The manager made the employees stay late.   ( use made)
+The employees were made to stay late by the manager.
+874: When can their glory fade?  ( use never)
+a: Their glory can never fade.
+875: He goes home. (Change into Negative) 
+a: He does not go home.
+876: I am as strong as he (Change into Comparative) 
+a: He is not stronger than me.
+877: He can do this work. (Change into Interrogative)
+a: Can he do this work?
+878: How beautiful is the night! (Change into assertive)
+a: The night is very beautiful.
+879: He knows the bad man. (Change into Complex) 
+a: He knows the man who is bad. 
+880: She lives comfortably. (Change into Noun) 
+a: She lives in comfort.
+881: No other metal is as useful as iron. (Change into Superlative) 
+a: Iron is the most useful of all metals.
+882: His ambition is to serve the country. (Change into Complex) 
+a: His ambition is that he should serve his country.
+883: These mangoes are too cheap to be good. (Remove too) 
+a: These mangoes are so cheap that they cannot be good. 
+884: She is your friend. (Change into Negative) 
+a: She is not your enemy. 
+885: He treated me cruelly. (Change into Adjective) 
+a: He was cruel to me. 
+886: He said that he was coming. (Change into Simple) 
+a: He told of his coming. 
+887: That razor is not so sharp as this one. (Change into Comparative) 
+a: This razor is sharper than that one. 
+888: He was too weak to walk. (Remove too) 
+a: He was so weak that he could not walk. 
+889: This news gave her pleasure. (Change into Verb) 
+a: This news pleased her. 
+890: s he not an honest man ? (Change into Assertive) 
+a: He is an honest man. 
+891: He must weep or he will die. (Change into Simple) 
+a: He must weep to escape death. 
+892: Bangalore is the most beautiful city in India. (Change into Comparative) 
+a: Bangalore is more beautiful than any other city in India. 
+893: We eat to live. (Change into Complex) 
+a: We eat so that we may live. 
+894: Mumbai is one of the richest towns in India. (Change into Positive) 
+a: Very few towns in India are as rich as Mumbai.
+895: 22. This coffee is too cold for me. (Remove too) 
+a: This coffee is so cold that I cannot take it. 
+896: How fast she runs ! (Change into Assertive) 
+a: She runs very fast. 
+897: Man is mortal. (Change into Negative) 
+a: Man is not immortal. 
+898: He knows that the earth is round. (Change into Compound). 
+a: The earth is round and he knows it. 
+899: Brutus loved Caesar. (Change into Nagative) 
+a: Brutus did not hate Caesar. 
+900: He will be rewarded as he stands second. (Change into Simple) 
+a: He will be rewarded because of standing second. 
+901: What if I pass this year ! (Change into Assertive) 
+a: It does not matter if I pass this year.
+902: She was too proud to beg. (Remove too) 
+a: She was so proud that she could not beg.
+903: Sohan writes more legibly than all other boys of his class. (Change into Positive) 
+a: No other boy of Sohan’s class writes so legibly as he.
+904: As soon as the chairperson arrived the board meeting commenced. (Begin: Barely…..)
+a: Barely had the chairperson arrived then the board meeting commenced.
+905: In spite of having scarce resources, Rani Lakshmibai fought bravely against the Mughals. ( Use: Though)
+a: Rani Laxmibai fought bravely against the Mughals though she had scarce resources.
+906: We never imagined that he would win the election. ( Begin: Little)
+a: Little did we imagine that he would win the election.
+907: Spend your time judiciously; otherwise you may fail in the examination. ( Use: Lest)
+a: Spend your time judiciously lest you fail in the examination.
+908: Very few musicians are as creative as  Mr A R Rahman. (Begin: Mr A R Rahman…..)
+a: A R Rahman is one of the most creative musicians.
+909: It is a pity that I did not take my father’s advice. (Use: wish)
+a: I wish I had not taken my father's advice.
+910: He left Ranchi two weeks ago after completing his thesis. (Begin: It has been…….)
+a: It has been two weeks since he left Ranchi after completing his thesis.
+911: He said, “What have you done to pacify your parents?” (Begin: He asked…….)
+a: He asked me what I had done to pacify my parents.
+a: He asked him what he had done to pacify his parents.
+a: He asked her what she had done to pacify her parents.
+912: The police are expecting to make an arrest shortly. ( Begin: It is...................)
+a: It is expected that the police will make an arrest shortly.
+913: He was so old that he could be my grandfather. (Begin: He was old enough............)
+a: He was old enough to be my grandfather.
+914: She frowned only once. (Begin: Only.......)
+a: Only once did she frown.
+915: No sooner had the judge considered all the facts than he gave the verdict . (Begin: As soon as .......)
+a: As soon as the judge had considered all the facts, he gave the verdict.
+916: You surprise me. (Begin: I am  ................)
+a: I am surprised by you.
+917: I wish I had met you five years ago. (Begin : How I..............)
+a: How I wish I had met you five years ago.
+918: Not many people listen to the radio these days. (Begin: Few.........................)
+a: Few people listen to radio these days.
+919: Although it was a sunny day, it was very cold. (Begin: Despite.........................)
+a: Despite it being a sunny day, it was very cold.
