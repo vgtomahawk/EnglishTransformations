@@ -1916,3 +1916,61 @@ a: How I wish I had met you five years ago.
 a: Few people listen to radio these days.
 919: Although it was a sunny day, it was very cold. (Begin: Despite.........................)
 a: Despite it being a sunny day, it was very cold.
+920: My friend's construction company is building a dam across this river. (Begin: Dam.....)
+a:  A dam is being built across this river by my friend’s construction company.
+921: They all felt the tremor a few minutes after the actual earthquake happened. (Begin: The tremor....)
+a: The tremor was felt by them a few minutes after the actual earthquake happened.
+922: She has played the lead role in the play. (Begin: The lead role.....)
+a: The lead role in that play has been played by her.
+923:  Many of my friends living abroad write to me very short letters. (Begin: Very short letters.....)
+a: Very short letters are written by many of my friends living abroad.
+924: My father was teaching some poor students from the nearby villages. (Begin: Some poor students....)
+a: Some poor students from the nearby villages were being taught by my father.
+925: She had asked him the question many times. (Begin: The question....)
+a: The question had been asked to him many times by her.
+926: We will finish most of next year’s work by the end of this year. (Begin: Most of next year's...)
+a: Most of next year’s work will be finished by us by the end of the year.
+927: She will have finished her lessons three years from now. (Begin: Her lessons.....)
+a: Her lessons will have been finished by her three years from now.
+928: We feel that incidents such as this should not happen again. (Begin: It...)
+a: It is felt that incidents such as this should not happen again.
+929: He was running very fast. (Use: speed)
+a: He was running at a great speed.
+930: This idea interested me. (Use: interest)
+a: This idea was of interest to me.
+931: My friend is wealthy enough to start a new business. (Use: wealth)
+a: My friend has enough wealth to start a new business. 
+932: We do not listen to their suggestions. (Use: suggest)
+a: We do not listen to what they suggest. 
+933: They arrived earlier than usual. (Use: arrival)
+a: Their arrival was earlier than usual. 
+934: This old man is very wise. (Use: wisdom)
+a: This old man has great wisdom.
+935: I loved them so much. (Use: love)
+a: I gave them so much love.
+936: It takes good communication skills for your speech to be brief. (Use: brevity)
+a: It takes good communication skills for your speech to have brevity. 
+937: I encouraged him much. (Use: courage)
+a: I gave him so much courage. 
+938: We were very grateful to him. (Use: gratitude)
+a: We had great gratitude for him.
+939: I will never forget the way you helped me today. (Use: remember)
+a: I will always remember the way you helped me today. 
+940: Everyone wants to be rich. (Use: poor)
+a: No one wants to be poor.
+941: The culprit was punished. (Use: exonerated)
+a: The culprit was not exonerated.
+942: His application was accepted. (Use: rejected)
+a: His application was not rejected.
+943: He was drunk. (Use: sober)
+a: He was not sober.
+944: I have never visited the place (Use: never)
+a: Never have I visited this place.
+945: It was only then that I saw him. (Use: only)
+a: Only then did I see him.
+946: I barely knew it was his plan. (Use: barely)
+a: Barely did know it was his plan.
+947: Barking dogs seldom bite. (Use: seldom)
+a:  Seldom do barking dogs bite.
+948: They hardly visit such places. (Use: hardly)
+a: Hardly do they visit such places.
